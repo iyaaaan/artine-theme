@@ -7,28 +7,59 @@
 <link rel="icon" href="img/logos/artine-favicon.png" />
 
 <!-- jQuery UI - v1.9.2 -->
-<link rel="stylesheet" href="css/jquery-ui.min.css">
+<link rel="preload" href="css/jquery-ui.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<!-- jQuery UI - v1.9.2 fallback -->
+<noscript>
+	<link rel="stylesheet" href="css/jquery-ui.min.css">
+</noscript>
 
 <!-- Font Awesome 4.7.0 -->
-<link rel="stylesheet" href="css/font-awesome.min.css">
+<link rel="preload" href="css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<!-- Font Awesome 4.7.0 fallback -->
+<noscript>
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+</noscript>
 
 <!-- Owl Carousel -->
-<link rel="stylesheet" href="css/owl-carousel.min.css">
-<link rel="stylesheet" href="css/owl-theme.min.css">
+<link rel="preload" href="css/owl-carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="css/owl-theme.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<!-- Owl Carousel fallback -->
+<noscript>
+	<link rel="stylesheet" href="css/owl-carousel.min.css">
+	<link rel="stylesheet" href="css/owl-theme.min.css">
+</noscript>
 
 <!-- Fotorama -->
-<link rel="stylesheet" href="css/fotorama.min.css">
+<link rel="preload" href="css/fotorama.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<!-- Fotorama fallback -->
+<noscript>
+	<link rel="stylesheet" href="css/fotorama.min.css">
+</noscript>
 
 <!-- LightGallery -->
-<link rel="stylesheet" href="css/lightgallery.min.css">
+<link rel="preload" href="css/lightgallery.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<!-- LightGallery fallback -->
+<noscript>
+	<link rel="stylesheet" href="css/lightgallery.min.css">
+</noscript>
 
 <!-- AOS -->
-<link rel="stylesheet" href="css/aos.min.css">
+<link rel="preload" href="css/aos.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+<!-- AOS fallback -->
+<noscript>
+	<link rel="stylesheet" href="css/aos.min.css">
+</noscript>
 
 <!-- compiled css styles -->
 <link rel="preload" href="css/main.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
-<!-- fallback -->
+<!-- main styles fallback -->
 <noscript>
 	<link rel="stylesheet" href="css/main.min.css">
 </noscript>

@@ -6,15 +6,6 @@
 
 	<title>A r t i N e | Packages</title>
 
-	<!-- Font Awesome 4.7.0 -->
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-
-	<!-- AOS -->
-	<link rel="stylesheet" href="css/aos.min.css">
-
-	<!-- compiled css styles -->
-	<link rel="preload" href="css/main.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
 </head>
 
 <body>
@@ -298,16 +289,6 @@
 	</section>
 
 	<?php include('include-footer.php') ?>
-
-	<!-- External JS Files -->
-	<script src="js/jquery.min.js"></script>
-	<script src="js/jquery-lazy.min.js" defer></script>
-
-	<!--AOS-->
-	<script src="js/aos.min.js"></script>
-
-	<!--Main Script-->
-	<script src="js/main.min.js"></script>
 
 	<!-- navbar active state -->
 	<script>

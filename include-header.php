@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 
-<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
 <meta name="description" content="ArTine Photography is a team of expertly-trained photographers who captures the best shots for your special day. Artine Photography are open for Weddings, Birthdays, and Product Photography. They also have amazing paintings to decorate your home.">
 
 <!-- favicon -->

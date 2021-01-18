@@ -470,6 +470,10 @@ $counter: 5;
 	opacity: 1;
 }
 
+.visibility-hidden {
+	visibility: hidden;
+}
+
 /* display on small devices and greater */
 @include respond-to(small) {
 	.show-on-sm {

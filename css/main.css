@@ -927,6 +927,10 @@ hr {
   opacity: 1;
 }
 
+.visibility-hidden {
+  visibility: hidden;
+}
+
 /* display on small devices and greater */
 @media screen and (min-width: 576px) {
   .show-on-sm {

@@ -26,6 +26,8 @@ $(function () {
 			$('.js-navbar').css('position', 'fixed');
 		}
 		prevScrollpos = currentScrollPos;
+	}, {
+		passive: true
 	}
 });
 
@@ -64,7 +66,7 @@ $(function () {
 	$(document).scroll(function () {
 		$(".js-navbar__menu").removeClass('is-opened');
 		$(".js-navbar__bar").removeClass('is-toggled');
-	});
+	}, {passive: true});
 });
 
 //close navbar when pressed ESC key
@@ -228,6 +230,8 @@ $(document).scroll(function () {
 	} else {
 		$('.js-back-to-top').fadeOut('slow');
 	}
+}, {
+	passive: true
 });
 
 //initialize owl-carousel for featured-blogs

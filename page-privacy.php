@@ -4,7 +4,7 @@
 <head>
 	<?php include('include-header.php'); ?>
 
-	<title>A r t i N e | Privacy Policy</title>
+	<title>Privacy Policy | Artine Photography</title>
 
 </head>
 

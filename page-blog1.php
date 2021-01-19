@@ -4,7 +4,7 @@
 <head>
 	<?php include('include-header.php'); ?>
 
-	<title>A r t i N e | Jose and Maria's Wedding</title>
+	<title>Jose and Maria's Wedding | Artine Photography</title>
 
 </head>
 

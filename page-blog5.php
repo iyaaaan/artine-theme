@@ -4,7 +4,7 @@
 <head>
 	<?php include('include-header.php'); ?>
 
-	<title>A r t i N e | Baby Yuri's Photoshoot</title>
+	<title>Baby Yuri's Photoshoot | Artine Photography</title>
 
 </head>
 

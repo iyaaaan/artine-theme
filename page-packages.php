@@ -4,7 +4,7 @@
 <head>
 	<?php include('include-header.php'); ?>
 
-	<title>A r t i N e | Packages</title>
+	<title>Packages | Artine Photography</title>
 
 </head>
 

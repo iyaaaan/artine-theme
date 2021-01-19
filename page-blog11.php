@@ -4,7 +4,7 @@
 <head>
 	<?php include('include-header.php'); ?>
 
-	<title>A r t i N e | Jake and Joanna's Wedding</title>
+	<title>William and Stelle's Pre-Nuptial | Artine Photography</title>
 
 </head>
 

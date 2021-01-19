@@ -1,7 +1,8 @@
 <meta charset="UTF-8">
 
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
-<meta name="description" content="ArTine Photography is a team of expertly-trained photographers who captures the best shots for your special day. Artine Photography are open for Weddings, Birthdays, and Product Photography. They also have amazing paintings to decorate your home.">
+<meta name="robots" content="index,nofollow">
+<meta name="description" content="Artine Photography is a team of expertly-trained photographers who captures the best shots for your special day. Artine Photography is open for Weddings, Birthdays, Family Portraits, Baby Photoshoots and Product Photography.">
 
 <!-- favicon -->
 <link rel="icon" href="img/logos/artine-favicon.png" />
@@ -23,14 +24,14 @@
 </noscript>
 
 <!-- Owl Carousel -->
-<link rel="preload" href="css/owl-carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<link rel="preload" href="css/owl-theme.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<!--<link rel="preload" href="css/owl-carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">-->
+<!--<link rel="preload" href="css/owl-theme.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">-->
 
 <!-- Owl Carousel fallback -->
-<noscript>
+<!--<noscript>-->
 	<link rel="stylesheet" href="css/owl-carousel.min.css">
 	<link rel="stylesheet" href="css/owl-theme.min.css">
-</noscript>
+<!--</noscript>-->
 
 <!-- Fotorama -->
 <link rel="preload" href="css/fotorama.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">

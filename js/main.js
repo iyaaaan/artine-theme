@@ -66,7 +66,9 @@ $(function () {
 	$(document).scroll(function () {
 		$(".js-navbar__menu").removeClass('is-opened');
 		$(".js-navbar__bar").removeClass('is-toggled');
-	}, {passive: true});
+	}, {
+		passive: true
+	});
 });
 
 //close navbar when pressed ESC key
@@ -286,9 +288,7 @@ $(function () {
 
 //initialize jQuery Lazy Load
 $(function () {
-	$(function () {
-		$('.lazy').lazy();
-	});
+	$('.lazy').lazy();
 });
 
 //initialize fotorama

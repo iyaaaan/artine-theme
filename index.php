@@ -64,19 +64,19 @@
 	<!-- Benefits section -->
 	<section id="benefits">
 		<div class="container-full benefits">
-			<div class="benefits__item" data-aos="flip-down" data-aos-delay="100">
+			<div class="benefits__item">
 				<img data-src="img/icons/pro-cam.png" class="benefits__icon lazy" alt="Artine Professional Photographers">
 				<h5>Professional</h5>
 				<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, officia!</p>
 			</div>
 
-			<div class="benefits__item" data-aos="flip-down" data-aos-delay="200">
+			<div class="benefits__item">
 				<img data-src="img/icons/cheap-price.png" class="benefits__icon lazy" alt="Affordable Artine Packages">
 				<h5>Affordable</h5>
 				<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 			</div>
 
-			<div class="benefits__item" data-aos="flip-down" data-aos-delay="300">
+			<div class="benefits__item">
 				<img data-src="img/icons/image.png" class="benefits__icon lazy" alt="High Quality Images">
 				<h5>High Quality Artine Images</h5>
 				<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, sunt maxime eaque ea?</p>
@@ -89,7 +89,7 @@
 	<section id="services">
 		<div class="container-full">
 			<!--	title -->
-			<h2 class="title" data-aos="fade">Services</h2>
+			<h2 class="title">Services</h2>
 			<div class="flex-center">
 				<div class="services__item" data-aos="fade-right" data-aos-duration="750">
 					<img data-src="img/banners/wedding-banner.jpg" class="img-fit lazy" alt="Wedding Packages">
@@ -121,7 +121,7 @@
 	<section id="testimonials">
 		<div class="container-full relative">
 			<!--	title -->
-			<h2 class="title" data-aos="fade">Testimonials</h2>
+			<h2 class="title">Testimonials</h2>
 
 			<!-- background diagonal svg  box-->
 			<svg class="svg-box" viewBox="0 0 500 150" preserveAspectRatio="none">
@@ -189,7 +189,7 @@
 	<section id="quote">
 		<div class="quote-sec flex-center">
 			<div class="overlay"></div>
-			<h2 class="quote-sec__text" data-aos="fade-up">"Capture Moments that Matter"</h2>
+			<h2 class="quote-sec__text">"Capture Moments that Matter"</h2>
 		</div>
 	</section><!-- /. quote section -->
 
@@ -198,16 +198,16 @@
 	<section id="featured">
 		<div class="container-full">
 			<!--	title -->
-			<h2 class="title" data-aos="fade">Our Latest Work</h2>
+			<h2 class="title">Our Latest Work</h2>
 
 			<div class="flex-center">
-				<div class="featured__item" data-aos="fade-right">
+				<div class="featured__item">
 					<video controls controlsList="nodownload" playsinline poster="img/video-thumbnails/featured-thumb.jpg" class="w-100" lazy>
 						<source data-src="videos/us.mp4" type="video/mp4">
 					</video>
 				</div>
 
-				<div class="featured__item" data-aos="fade-left">
+				<div class="featured__item">
 
 					<h2 class="featured__title">Us the Duo</h2>
 					<span class="featured__sub-header"><em>No Matter Where You Are. (Wedding Edition)</em></span>
@@ -322,7 +322,7 @@
 	<!-- Email section -->
 	<section id="email-sec">
 		<div class="container-full email-sec flex-center">
-			<div class="email-sec__content flex-center" data-aos="flip-left">
+			<div class="email-sec__content flex-center">
 				<div class="email-sec__text">
 					<span>Got some questions?</span>
 					<h3 class="email-sec__text-header">Connect with us!</h3>
@@ -334,7 +334,7 @@
 				</div>
 			</div>
 
-			<form action="send-email.php" method="POST" class="email-sec__form" data-aos="flip-right">
+			<form action="send-email.php" method="POST" class="email-sec__form">
 				<div class="form-fields">
 					<div class="form-fields__col">
 						<div class="input-wrap">

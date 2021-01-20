@@ -32,7 +32,7 @@
 
 	<div class="container">
 		<!-- title -->
-		<h2 class="title" data-aos="fade">Our Blog</h2>
+		<h2 class="title" data-aos="fade">Our Blogs</h2>
 
 		<!-- blog -->
 		<div class="blog">

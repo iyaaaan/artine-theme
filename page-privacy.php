@@ -77,8 +77,9 @@
 					<p>+(63) 929-8211-446</p>
 				</li>
 			</ul>
-		</div>
-	</div>
+
+		</div> <!-- ./privacy -->
+	</div> <!-- ./container -->
 
 	<!-- include footer -->
 	<?php include('include-footer.php') ?>

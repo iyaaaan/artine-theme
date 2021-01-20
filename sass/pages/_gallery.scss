@@ -1,74 +1,78 @@
 /* Gallery Filter */
-.gallery-filter__toggler {
-	display: inline-block;
-	color: var(--color-primary);
-	font-family: var(--font-title);
-	font-size: 2rem;
-	cursor: pointer;
-	position: relative;
-	overflow: hidden;
-	transition: all .3s ease;
+.gallery-filter {
+	margin-bottom: 1.5rem;
 
-	& i {
+	&__toggler {
+		display: inline-block;
+		color: var(--color-primary);
+		font-family: var(--font-title);
+		font-size: 2rem;
+		cursor: pointer;
+		position: relative;
+		overflow: hidden;
 		transition: all .3s ease;
-	}
 
-	&.is-active i {
-		transform: rotate(180deg);
-	}
+		& i {
+			transition: all .3s ease;
+		}
 
-	@include respond-to(small) {
-		display: none;
-	}
-}
+		&.is-active i {
+			transform: rotate(180deg);
+		}
 
-.gallery-filter__menu {
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	justify-content: center;
-	font-weight: normal;
-	text-align: center;
-	list-style-type: none;
-	max-height: 0;
-	overflow: hidden;
-	transition: max-height .5s cubic-bezier(0.73, 0.6, 0.07, 0.56);
-
-	@include respond-to(small) {
-		max-height: 500px;
-	}
-
-	&.is-active {
-		max-height: 500px;
-	}
-}
-
-.gallery-filter__btn {
-	flex: 0 0 50%;
-	border: none;
-	background-color: transparent;
-	color: var(--black);
-	font-family: var(--font-primary);
-	font-size: 12px;
-	letter-spacing: 2px;
-	position: relative;
-	padding: 1.5rem;
-	min-width: 110px;
-	outline: none;
-
-	&.is-active {
-		pointer-events: none;
-	}
-
-	@include respond-to(small) {
-		flex: 0 0 auto;
-
-		&:not(:last-of-type) {
-			margin-right: 0;
+		@include respond-to(small) {
+			display: none;
 		}
 	}
-}
 
+	&__menu {
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+		font-weight: normal;
+		text-align: center;
+		list-style-type: none;
+		max-height: 0;
+		overflow: hidden;
+		transition: max-height .5s cubic-bezier(0.73, 0.6, 0.07, 0.56);
+
+		@include respond-to(small) {
+			max-height: 500px;
+		}
+
+		&.is-active {
+			max-height: 500px;
+		}
+	}
+
+	&__btn {
+		flex: 0 0 50%;
+		border: none;
+		background-color: transparent;
+		color: var(--black);
+		font-family: var(--font-primary);
+		font-size: 12px;
+		letter-spacing: 2px;
+		position: relative;
+		padding: 1.5rem;
+		min-width: 110px;
+		outline: none;
+
+		&.is-active {
+			pointer-events: none;
+		}
+
+		@include respond-to(small) {
+			flex: 0 0 auto;
+
+			&:not(:last-of-type) {
+				margin-right: 0;
+			}
+		}
+	}
+
+}
 
 /* Isotope Grid */
 .gallery {

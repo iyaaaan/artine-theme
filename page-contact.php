@@ -32,7 +32,7 @@
 
 	<div class="container-full" id="contact">
 		<!--	title -->
-		<h2 class="title" data-aos="fade">How Can We Help?</h2>
+		<h2 class="title">How Can We Help?</h2>
 
 		<form action="send-email.php" method="POST" class="contact-form">
 			<div class="form-fields">

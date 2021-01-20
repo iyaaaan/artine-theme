@@ -42,12 +42,12 @@
 	<!--	our team -->
 	<section>
 		<div class="container">
-			<h2 class="title" data-aos="fade">Meet the Team</h2>
+			<h2 class="title">Meet the Team</h2>
 
 			<div class="team">
 
 				<!-- team card -->
-				<div class="team-card" data-aos="fade-right">
+				<div class="team-card">
 					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-1" onclick="openTeamModal(this);">
 
 					<div class="py-1">
@@ -58,7 +58,7 @@
 				</div>
 
 				<!-- team card -->
-				<div class="team-card" data-aos="fade-left">
+				<div class="team-card">
 					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-2" onclick="openTeamModal(this);">
 
 					<div class="py-1">
@@ -68,7 +68,7 @@
 				</div>
 
 				<!-- team card -->
-				<div class="team-card" data-aos="fade-right">
+				<div class="team-card">
 					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-3" onclick="openTeamModal(this);">
 
 					<div class="py-1">
@@ -78,7 +78,7 @@
 				</div>
 
 				<!-- team card -->
-				<div class="team-card" data-aos="fade-right">
+				<div class="team-card">
 					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-4" onclick="openTeamModal(this);">
 
 					<div class="py-1">
@@ -88,7 +88,7 @@
 				</div> <!-- ./team -->
 
 				<!-- team card -->
-				<div class="team-card" data-aos="fade-left">
+				<div class="team-card">
 					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-5" onclick="openTeamModal(this);">
 
 					<div class="py-1">
@@ -98,7 +98,7 @@
 				</div> <!-- ./team -->
 
 				<!-- team card -->
-				<div class="team-card" data-aos="fade-right">
+				<div class="team-card">
 					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-6" onclick="openTeamModal(this);">
 
 					<div class="py-1">

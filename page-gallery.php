@@ -32,9 +32,9 @@
 
 	<div class="container">
 		<!--	title -->
-		<h2 class="title" data-aos="fade">Galería</h2>
+		<h2 class="title">Galería</h2>
 
-		<nav class="gallery-filter mb-1" data-aos="zoom-in">
+		<nav class="gallery-filter">
 			<a class="gallery-filter__toggler" onclick="galNav()">Categories <i class="fa fa-caret-down" aria-hidden="true"></i></a>
 
 			<div class="gallery-filter__menu">
@@ -46,7 +46,7 @@
 			</div>
 		</nav>
 
-		<div class="gallery" data-aos="fade-up">
+		<div class="gallery">
 			<div class="gallery__sizer"></div>
 			<div class="gallery__gutter"></div>
 

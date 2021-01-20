@@ -1508,7 +1508,7 @@ a:focus {
 }
 @media screen and (min-width: 768px) {
   .navbar__logo {
-    width: 22rem;
+    width: 20rem;
   }
 }
 .navbar__menu {
@@ -2621,6 +2621,9 @@ textarea:not(:placeholder-shown) {
 }
 
 /* Gallery Filter */
+.gallery-filter {
+  margin-bottom: 1.5rem;
+}
 .gallery-filter__toggler {
   display: inline-block;
   color: var(--color-primary);
@@ -2642,7 +2645,6 @@ textarea:not(:placeholder-shown) {
     display: none;
   }
 }
-
 .gallery-filter__menu {
   display: flex;
   flex-wrap: wrap;
@@ -2663,7 +2665,6 @@ textarea:not(:placeholder-shown) {
 .gallery-filter__menu.is-active {
   max-height: 500px;
 }
-
 .gallery-filter__btn {
   flex: 0 0 50%;
   border: none;
@@ -2822,13 +2823,16 @@ textarea:not(:placeholder-shown) {
   text-align: justify;
   margin: 2rem 3rem;
   list-style: circle;
+  line-height: 2;
 }
 
 .terms {
+  margin: 5rem auto;
+}
+.terms__item {
   line-height: 2;
   text-align: justify;
   list-style: circle;
-  margin: 5rem auto;
   padding: 0 1.5rem;
 }
 

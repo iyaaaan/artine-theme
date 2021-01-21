@@ -2,7 +2,7 @@
 
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
 <meta name="robots" content="index,nofollow">
-<meta name="description" content="Artine Photography is a team of expertly-trained photographers who captures the best shots for your special day. Artine Photography is open for Weddings, Birthdays, Family Portraits, Baby Photoshoots and Product Photography.">
+<meta name="description" content="Artine Photography is a team of expertly-trained photographers who captures the best shots for your special day — open for Weddings, Birthdays, Family Portraits, etc.">
 
 <!-- favicon -->
 <link rel="icon" href="img/logos/artine-favicon.png" />
@@ -29,8 +29,8 @@
 
 <!-- Owl Carousel fallback -->
 <!--<noscript>-->
-	<link rel="stylesheet" href="css/owl-carousel.min.css">
-	<link rel="stylesheet" href="css/owl-theme.min.css">
+<link rel="stylesheet" href="css/owl-carousel.min.css">
+<link rel="stylesheet" href="css/owl-theme.min.css">
 <!--</noscript>-->
 
 <!-- Fotorama -->

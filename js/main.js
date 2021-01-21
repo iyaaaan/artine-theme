@@ -26,8 +26,6 @@ $(function () {
 			$('.js-navbar').css('position', 'fixed');
 		}
 		prevScrollpos = currentScrollPos;
-	}, {
-		passive: true
 	}
 });
 
@@ -64,10 +62,13 @@ $(function () {
 //close navbar-menu on scroll
 $(function () {
 	$(document).scroll(function () {
-		$(".js-navbar__menu").removeClass('is-opened');
-		$(".js-navbar__bar").removeClass('is-toggled');
-	}, {
-		passive: true
+		var opened = $(".js-navbar__menu").hasClass("is-opened");
+		var toggled = $(".js-navbar__bar").hasClass("is-toggled");
+
+		if (opened === true && toggled === true) {
+			$(".js-navbar__menu").removeClass("is-opened");
+			$(".js-navbar__bar").removeClass("is-toggled");
+		}
 	});
 });
 
@@ -232,8 +233,6 @@ $(document).scroll(function () {
 	} else {
 		$('.js-back-to-top').fadeOut('slow');
 	}
-}, {
-	passive: true
 });
 
 //initialize owl-carousel for featured-blogs

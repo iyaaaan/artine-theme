@@ -3,11 +3,13 @@
 
 <head>
 	<meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
+	<?php include('include-header.php');  ?>
+
 	<title>Page Not Found | Artine Photography</title>
 
 	<style>
 		.error {
-			background: url(../img/banners/error404.jpg);
+			background: url(img/banners/error404.jpg);
 			background-attachment: fixed;
 			background-size: cover;
 			background-repeat: no-repeat;

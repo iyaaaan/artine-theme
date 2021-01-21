@@ -3,7 +3,7 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-
+	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-gallery.php">
 	<title>Galería | Artine Photography</title>
 
 </head>

@@ -3,7 +3,7 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-
+	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-about.php">
 	<title>This is Us | Artine Photography</title>
 
 </head>

@@ -4,7 +4,7 @@
 <head>
 
 	<?php include('include-header.php');  ?>
-
+	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/">
 	<title>Capture Moments that Matter | Artine Photography</title>
 
 </head>

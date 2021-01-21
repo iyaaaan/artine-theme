@@ -3,7 +3,9 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-
+	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-blog1.php">
+	<link rel="prev" href="http://www.artine-photography.rf.gd/artine/page-blog12.php">
+	<link rel="next" href="http://www.artine-photography.rf.gd/artine/page-blog2.php">
 	<title>Jose and Maria's Wedding | Artine Photography</title>
 
 </head>

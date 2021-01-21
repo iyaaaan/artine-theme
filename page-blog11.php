@@ -3,7 +3,9 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-
+	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-blog11.php">
+	<link rel="prev" href="http://www.artine-photography.rf.gd/artine/page-blog10.php">
+	<link rel="next" href="http://www.artine-photography.rf.gd/artine/page-blog12.php">
 	<title>William and Stelle's Pre-Nuptial | Artine Photography</title>
 
 </head>

@@ -3,7 +3,9 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-
+	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-blog7.php">
+	<link rel="prev" href="http://www.artine-photography.rf.gd/artine/page-blog6.php">
+	<link rel="next" href="http://www.artine-photography.rf.gd/artine/page-blog8.php">
 	<title>Baby Joven's Photoshoot | Artine Photography</title>
 
 </head>

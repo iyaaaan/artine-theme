@@ -3,7 +3,9 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-
+	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-blog6.php">
+	<link rel="prev" href="http://www.artine-photography.rf.gd/artine/page-blog5.php">
+	<link rel="next" href="http://www.artine-photography.rf.gd/artine/page-blog7.php">
 	<title>Vitor and Jillian's Pre-Nuptial | Artine Photography</title>
 
 </head>

@@ -3,7 +3,9 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-
+	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-blog2.php">
+	<link rel="prev" href="http://www.artine-photography.rf.gd/artine/page-blog1.php">
+	<link rel="next" href="http://www.artine-photography.rf.gd/artine/page-blog3.php">
 	<title>Patricia's 7th Birthday | Artine Photography</title>
 
 </head>

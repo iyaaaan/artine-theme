@@ -45,7 +45,7 @@
 		<div class="highlight-banner wedding-banner" id="weddings"></div>
 
 		<div class="container">
-			<div class="title" data-aos="fade">Weddings</div>
+			<h2 class="title" data-aos="fade">Weddings</h2>
 			<div class="package">
 				<div class="package__item" data-aos="zoom-in-right" data-aos-delay="100">
 					<div class="package__name">Diamond Package</div>
@@ -95,7 +95,7 @@
 		<!-- birthday banner -->
 		<div class="highlight-banner birthday-banner" id="birthdays"></div>
 		<div class="container">
-			<div class="title" data-aos="fade">Birthdays</div>
+			<h2 class="title" data-aos="fade">Birthdays</h2>
 			<div class="package">
 				<div class="package__item" data-aos="fade-right" data-aos-delay="100">
 					<div class="package__name">Diamond Package</div>

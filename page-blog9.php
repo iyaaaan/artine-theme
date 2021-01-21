@@ -3,8 +3,10 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-
-	<title>Hanna's Debut  | Artine Photography</title>
+	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-blog9.php">
+	<link rel="prev" href="http://www.artine-photography.rf.gd/artine/page-blog8.php">
+	<link rel="next" href="http://www.artine-photography.rf.gd/artine/page-blog10.php">
+	<title>Hanna's Debut | Artine Photography</title>
 
 </head>
 

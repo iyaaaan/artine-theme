@@ -7,6 +7,11 @@
 <!-- favicon -->
 <link rel="icon" href="img/logos/artine-favicon.png" />
 
+<!-- fonts -->
+<link rel="preload" href="fonts/BebasNeue.ttf" as="font" type="ttf" crossorigin>
+<link rel="preload" href="fonts/PlayfairDisplay.ttf" as="font" type="ttf" crossorigin>
+<link rel="preload" href="fonts/Montserrat.ttf" as="font" type="ttf" crossorigin>
+
 <!-- jQuery UI - v1.9.2 -->
 <link rel="preload" href="css/jquery-ui.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
@@ -24,14 +29,14 @@
 </noscript>
 
 <!-- Owl Carousel -->
-<!--<link rel="preload" href="css/owl-carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">-->
-<!--<link rel="preload" href="css/owl-theme.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">-->
+<link rel="preload" href="css/owl-carousel.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="css/owl-theme.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
 <!-- Owl Carousel fallback -->
-<!--<noscript>-->
-<link rel="stylesheet" href="css/owl-carousel.min.css">
-<link rel="stylesheet" href="css/owl-theme.min.css">
-<!--</noscript>-->
+<noscript>
+	<link rel="stylesheet" href="css/owl-carousel.min.css">
+	<link rel="stylesheet" href="css/owl-theme.min.css">
+</noscript>
 
 <!-- Fotorama -->
 <link rel="preload" href="css/fotorama.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">

@@ -99,14 +99,27 @@
 
 <!-- jQuery -->
 <script src="js/jquery.min.js"></script>
+
+<!--for marking event handler as passive in jquery-->
+<script>
+	jQuery.event.special.touchstart = {
+		setup: function(_, ns, handle) {
+			this.addEventListener('touchstart', handle, {
+				passive: !ns.includes('noPreventDefault')
+			});
+		}
+	};
+
+</script>
+
 <script defer src="js/jquery-lazy.min.js"></script>
 <script defer src="js/jquery-ui.min.js"></script>
 
 <!--Main Script-->
-<script async src="js/main.min.js"></script>
+<script src="js/main.min.js"></script>
 
 <!--AOS-->
-<script src="js/aos.min.js"></script>
+<script defer src="js/aos.min.js"></script>
 
 <!-- Fotorama -->
 <script defer src="js/fotorama.min.js"></script>

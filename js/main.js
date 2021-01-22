@@ -8,6 +8,7 @@ $(function () {
 				$(this).remove();
 			});
 			$('body, html').removeClass('overflow-hidden');
+			$('body, html').removeAttr('class');
 		}, 500);
 	});
 });

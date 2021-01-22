@@ -1065,6 +1065,7 @@ a:focus {
 .img-fit {
   display: block;
   width: 100%;
+  height: auto;
 }
 
 .flex-center {
@@ -1146,7 +1147,7 @@ a:focus {
 }
 
 .underlay {
-  background-color: rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.3);
   height: 100%;
   width: 100%;
   position: absolute;
@@ -1900,8 +1901,6 @@ textarea:not(:placeholder-shown) {
   }
 }
 .hero__caption {
-  border: 0 solid var(--color-primary);
-  border-radius: 0.3rem;
   color: var(--white);
   text-align: center;
   position: relative;
@@ -1912,7 +1911,6 @@ textarea:not(:placeholder-shown) {
 @media screen and (min-width: 992px) {
   .hero__caption {
     flex: 0 0 50%;
-    border-width: 0.5rem;
     text-align: left;
     margin-left: 3rem;
   }

@@ -12,8 +12,6 @@
 	}
 
 	&__caption {
-		border: 0 solid var(--color-primary);
-		border-radius: .3rem;
 		color: var(--white);
 		text-align: center;
 		position: relative;
@@ -23,7 +21,6 @@
 
 		@include respond-to(large) {
 			flex: 0 0 50%;
-			border-width: .5rem;
 			text-align: left;
 			margin-left: 3rem;
 		}

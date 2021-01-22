@@ -8,9 +8,9 @@
 <link rel="icon" href="img/logos/artine-favicon.png" />
 
 <!-- fonts -->
-<link rel="preload" href="fonts/BebasNeue.ttf" as="font" type="ttf" crossorigin>
-<link rel="preload" href="fonts/PlayfairDisplay.ttf" as="font" type="ttf" crossorigin>
-<link rel="preload" href="fonts/Montserrat.ttf" as="font" type="ttf" crossorigin>
+<link rel="preload" as="font" href="fonts/BebasNeue.ttf" type="ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="fonts/PlayfairDisplay.ttf" type="ttf" crossorigin="anonymous">
+<link rel="preload" as="font" href="fonts/Montserrat.ttf" type="ttf" crossorigin="anonymous">
 
 <!-- jQuery UI - v1.9.2 -->
 <link rel="preload" href="css/jquery-ui.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -63,9 +63,9 @@
 </noscript>
 
 <!-- compiled css styles -->
-<link rel="preload" href="css/main.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<!--<link rel="preload" href="css/main.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">-->
 
 <!-- main styles fallback -->
-<noscript>
+<!--<noscript>-->
 	<link rel="stylesheet" href="css/main.min.css">
-</noscript>
+<!--</noscript>-->

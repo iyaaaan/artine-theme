@@ -32,17 +32,17 @@
 @font-face {
   font-family: BebasNeue;
   font-display: swap;
-  src: url(../fonts/BebasNeue.ttf);
+  src: local("Bebas Neue"), local("Bebas Neue-Regular"), url(../fonts/BebasNeue.ttf);
 }
 @font-face {
   font-family: Montserrat;
   font-display: swap;
-  src: url(../fonts/Montserrat.ttf);
+  src: local("Montserrat"), local("Montserrat-Regular"), url(../fonts/Montserrat.ttf);
 }
 @font-face {
   font-family: PlayfairDisplay;
   font-display: swap;
-  src: url(../fonts/PlayfairDisplay.ttf);
+  src: local("Playfair Display"), local("Playfair Display-Regular"), url(../fonts/PlayfairDisplay.ttf);
 }
 /* ############ DEFAULTS ############ */
 * {

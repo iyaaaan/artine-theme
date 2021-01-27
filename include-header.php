@@ -8,9 +8,9 @@
 <link rel="icon" href="img/logos/artine-favicon.png" />
 
 <!-- fonts -->
-<link rel="preload" as="font" href="fonts/BebasNeue.ttf" type="ttf" crossorigin="anonymous">
-<link rel="preload" as="font" href="fonts/PlayfairDisplay.ttf" type="ttf" crossorigin="anonymous">
-<link rel="preload" as="font" href="fonts/Montserrat.ttf" type="ttf" crossorigin="anonymous">
+<link rel="preload" href="fonts/BebasNeue.ttf" type="font/ttf" as="font" crossorigin="anonymous">
+<link rel="preload" href="fonts/PlayfairDisplay.ttf" type="font/ttf" as="font" crossorigin="anonymous">
+<link rel="preload" href="fonts/Montserrat.ttf" type="font/ttf" as="font" crossorigin="anonymous">
 
 <!-- jQuery UI - v1.9.2 -->
 <link rel="preload" href="css/jquery-ui.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">

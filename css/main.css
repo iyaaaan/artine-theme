@@ -1659,6 +1659,7 @@ a:focus {
 }
 .footer__about-img {
   width: 200px;
+  height: auto;
   display: block;
   margin: 0 auto 1.5rem;
 }

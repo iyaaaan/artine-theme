@@ -2,7 +2,7 @@
 <footer>
 	<div class="footer">
 		<div class="footer__about">
-			<img data-src="img/logos/artine-logo.png" class="footer__about-img lazy" alt="Artine Photography's Logo">
+			<img data-src="img/logos/artine-logo2.png" width="300px" height="91px" class="footer__about-img lazy" alt="Artine Photography's Logo">
 			<p class="footer__about-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem ad architecto laborum totam asperiores assumenda facere saepe quisquam debitis quos.</p>
 			<p class="footer__about-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, quibusdam?</p>
 		</div>
@@ -98,7 +98,8 @@
 <!-- External JS Files -->
 
 <!-- jQuery -->
-<script src="js/jquery.min.js"></script>
+<script src="js/jquery.min.js"></script> 
+<!--<link rel="preload" href="js/jquery.min.js" as="script"> 
 
 <!--for marking event handler as passive in jquery-->
 <script>
@@ -115,10 +116,11 @@
 <script defer src="js/jquery-lazy.min.js"></script>
 <script defer src="js/jquery-ui.min.js"></script>
 
-<!--Main Script-->
+<!-- Main Script -->
 <script src="js/main.min.js"></script>
+<!--  <link rel="preload" href="js/main.min.js" as="script">
 
-<!--AOS-->
+<!-- AOS -->
 <script defer src="js/aos.min.js"></script>
 
 <!-- Fotorama -->

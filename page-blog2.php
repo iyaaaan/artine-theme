@@ -3,17 +3,14 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-blog2.php">
-	<link rel="prev" href="http://www.artine-photography.rf.gd/artine/page-blog1.php">
-	<link rel="next" href="http://www.artine-photography.rf.gd/artine/page-blog3.php">
+	<!--	<link rel="canonical" href="http://artine-photography.epizy.com/page-blog2.php">-->
+	<!--	<link rel="prev" href="http://artine-photography.epizy.com/page-blog1.php">-->
+	<!--	<link rel="next" href="http://artine-photography.epizy.com/page-blog3.php">-->
 	<title>Patricia's 7th Birthday | Artine Photography</title>
 
 </head>
 
 <body>
-
-	<!-- include pre-loader	-->
-	<?php include('include-preloader.php'); ?>
 
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
@@ -32,7 +29,7 @@
 
 		<div class="fotorama mx-auto">
 			<a href="img/gallery/patricia-prudente/img-1.jpg" class="lazy">
-				<img data-src="img/gallery/patricia-prudente/thumb-1.jpg" alt="Photo from Patricia Prudente on unsplash.com" class="lazy">
+				<img src="img/gallery/patricia-prudente/thumb-1.jpg" alt="Photo from Patricia Prudente on unsplash.com" class="">
 			</a>
 			<a href="img/gallery/patricia-prudente/img-2.jpg" class="lazy">
 				<img data-src="img/gallery/patricia-prudente/thumb-2.jpg" alt="Photo from Patricia Prudente on unsplash.com" class="lazy">

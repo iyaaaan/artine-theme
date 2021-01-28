@@ -3,17 +3,14 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-blog9.php">
-	<link rel="prev" href="http://www.artine-photography.rf.gd/artine/page-blog8.php">
-	<link rel="next" href="http://www.artine-photography.rf.gd/artine/page-blog10.php">
+	<!--	<link rel="canonical" href="http://artine-photography.epizy.com/page-blog9.php">-->
+	<!--	<link rel="prev" href="http://artine-photography.epizy.com/page-blog8.php">-->
+	<!--	<link rel="next" href="http://artine-photography.epizy.com/page-blog10.php">-->
 	<title>Hanna's Debut | Artine Photography</title>
 
 </head>
 
 <body>
-
-	<!-- include pre-loader	-->
-	<?php include('include-preloader.php'); ?>
 
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>

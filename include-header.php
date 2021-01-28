@@ -13,12 +13,12 @@
 <link rel="preload" href="fonts/Montserrat.ttf" type="font/ttf" as="font" crossorigin="anonymous">
 
 <!-- jQuery UI - v1.9.2 -->
-<link rel="preload" href="css/jquery-ui.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<!--<link rel="preload" href="css/jquery-ui.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">-->
 
 <!-- jQuery UI - v1.9.2 fallback -->
-<noscript>
-	<link rel="stylesheet" href="css/jquery-ui.min.css">
-</noscript>
+<!--<noscript>-->
+<link rel="stylesheet" href="css/jquery-ui.min.css">
+<!--</noscript>-->
 
 <!-- Font Awesome 4.7.0 -->
 <link rel="preload" href="css/font-awesome.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -39,12 +39,12 @@
 </noscript>
 
 <!-- Fotorama -->
-<link rel="preload" href="css/fotorama.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<!--<link rel="preload" href="css/fotorama.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">-->
 
 <!-- Fotorama fallback -->
-<noscript>
-	<link rel="stylesheet" href="css/fotorama.min.css">
-</noscript>
+<!--<noscript>-->
+<link rel="stylesheet" href="css/fotorama.min.css">
+<!--</noscript>-->
 
 <!-- LightGallery -->
 <link rel="preload" href="css/lightgallery.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -67,5 +67,5 @@
 
 <!-- main styles fallback -->
 <!--<noscript>-->
-	<link rel="stylesheet" href="css/main.min.css">
+<link rel="stylesheet" href="css/main.min.css">
 <!--</noscript>-->

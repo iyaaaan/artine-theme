@@ -3,15 +3,12 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-packages.php">
+	<!--	<link rel="canonical" href="http://artine-photography.epizy.com/page-packages.php">-->
 	<title>Packages | Artine Photography</title>
 
 </head>
 
 <body>
-
-	<!-- include pre-loader	-->
-	<?php include('include-preloader.php'); ?>
 
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>

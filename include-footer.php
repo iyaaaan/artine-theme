@@ -98,7 +98,7 @@
 <!-- External JS Files -->
 
 <!-- jQuery -->
-<script src="js/jquery.min.js"></script> 
+<script src="js/jquery.min.js"></script>
 <!--<link rel="preload" href="js/jquery.min.js" as="script"> 
 
 <!--for marking event handler as passive in jquery-->
@@ -113,27 +113,27 @@
 
 </script>
 
-<script defer src="js/jquery-lazy.min.js"></script>
-<script defer src="js/jquery-ui.min.js"></script>
+<script src="js/jquery-lazy.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
 
 <!-- Main Script -->
-<script src="js/main.min.js"></script>
+<script src="js/main.js"></script>
 <!--  <link rel="preload" href="js/main.min.js" as="script">
 
 <!-- AOS -->
-<script defer src="js/aos.min.js"></script>
+<script src="js/aos.min.js"></script>
 
 <!-- Fotorama -->
-<script defer src="js/fotorama.min.js"></script>
+<script src="js/fotorama.min.js"></script>
 
 <!--Owl Carousel-->
-<script defer src="js/owl.carousel.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
 
 <!--Isotope Js / Imagesloaded-->
-<script defer src="js/isotope.min.js"></script>
-<script defer src="js/imagesloaded.min.js"></script>
+<script src="js/isotope.min.js"></script>
+<script src="js/imagesloaded.min.js"></script>
 
 <!--Light Gallery-->
-<script defer src="js/lightgallery.min.js"></script>
-<script defer src="js/lg-fullscreen.min.js"></script>
-<script defer src="js/lg-thumbnail.min.js"></script>
+<script src="js/lightgallery.min.js"></script>
+<script src="js/lg-fullscreen.min.js"></script>
+<script src="js/lg-thumbnail.min.js"></script>

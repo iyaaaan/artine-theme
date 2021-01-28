@@ -4,9 +4,9 @@
 <head>
 
 	<?php include('include-header.php');  ?>
-    <link rel="canonical" href="http://www.artine-photography.rf.gd/artine/">
+	<!--	<link rel="canonical" href="http://www.http://artine-photography.epizy.com/index.php">-->
 	<title>Capture Moments that Matter | Artine Photography</title>
-    
+
 </head>
 
 <body>
@@ -127,7 +127,7 @@
 			<svg class="svg-box" viewBox="0 0 500 150" preserveAspectRatio="none">
 				<path d="M-4.22,35.03 C-2.54,35.03 -3.67,35.03 542.61,-0.48 L500.00,150.00 L-0.84,178.13 Z"></path>
 			</svg>
-			
+
 			<div class="ow1 owl-carousel owl-theme test-owl">
 
 				<div class="item">
@@ -393,6 +393,25 @@
 		});
 
 	</script>
+
+	<script>
+		//pre-loader
+		$(function() {
+			$('body, html').addClass('overflow-hidden');
+
+			$(window).on("load", function() {
+				setTimeout(function() {
+					$('.pre-loader').fadeOut('slow', function() {
+						$(this).remove();
+					});
+					$('body, html').removeClass('overflow-hidden');
+					$('body, html').removeAttr('class');
+				}, 500);
+			});
+		});
+
+	</script>
+
 </body>
 
 </html>

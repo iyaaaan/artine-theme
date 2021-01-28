@@ -3,17 +3,14 @@
 
 <head>
 	<?php include('include-header.php'); ?>
-	<link rel="canonical" href="http://www.artine-photography.rf.gd/artine/page-blog12.php">
-	<link rel="prev" href="http://www.artine-photography.rf.gd/artine/page-blog11.php">
-	<link rel="next" href="http://www.artine-photography.rf.gd/artine/page-blog1.php">
+	<!--	<link rel="canonical" href="http://artine-photography.epizy.com/page-blog12.php">-->
+	<!--	<link rel="prev" href="http://artine-photography.epizy.com/page-blog11.php">-->
+	<!--	<link rel="next" href="http://artine-photography.epizy.com/page-blog1.php">-->
 	<title>Baby Moreira's Photoshoot | Artine Photography</title>
 
 </head>
 
 <body>
-
-	<!-- include pre-loader	-->
-	<?php include('include-preloader.php'); ?>
 
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>

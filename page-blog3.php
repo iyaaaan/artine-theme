@@ -12,6 +12,9 @@
 
 <body>
 
+	<!-- include pre-loader	-->
+	<?php include('include-preloader.php');  ?>
+
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
 
@@ -28,21 +31,11 @@
 		<a href="page-blog.php" class="btn-outline btn-outline--light btn--large my-2"><i class="fa fa-long-arrow-left"></i> More Blogs</a>
 
 		<div class="fotorama mx-auto">
-			<a href="img/gallery/minnie-zhou/img-1.jpg" class="lazy">
-				<img data-src="img/gallery/minnie-zhou/thumb-1.jpg" alt="Photo from Minnie Zhou on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/minnie-zhou/img-2.jpg" class="lazy">
-				<img data-src="img/gallery/minnie-zhou/thumb-2.jpg" alt="Photo from Minnie Zhou on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/minnie-zhou/img-3.jpg" class="lazy">
-				<img data-src="img/gallery/minnie-zhou/thumb-13jpg" alt="Photo from Minnie Zhou on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/minnie-zhou/img-4.jpg" class="lazy">
-				<img data-src="img/gallery/minnie-zhou/thumb-4.jpg" alt="Photo from Minnie Zhou on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/minnie-zhou/img-5.jpg" class="lazy">
-				<img data-src="img/gallery/minnie-zhou/thumb-5.jpg" alt="Photo from Minnie Zhou on unsplash.com" class="lazy">
-			</a>
+			<a href="img/gallery/minnie-zhou/img-1.jpg" data-thumb="img/gallery/minnie-zhou/thumb-1.jpg"></a>
+			<a href="img/gallery/minnie-zhou/img-2.jpg" data-thumb="img/gallery/minnie-zhou/thumb-2.jpg"></a>
+			<a href="img/gallery/minnie-zhou/img-3.jpg" data-thumb="img/gallery/minnie-zhou/thumb-3.jpg"></a>
+			<a href="img/gallery/minnie-zhou/img-4.jpg" data-thumb="img/gallery/minnie-zhou/thumb-4.jpg"></a>
+			<a href="img/gallery/minnie-zhou/img-5.jpg" data-thumb="img/gallery/minnie-zhou/thumb-5.jpg"></a>
 		</div>
 
 		<div class="blog__info">

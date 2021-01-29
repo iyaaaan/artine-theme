@@ -12,6 +12,9 @@
 
 <body>
 
+	<!-- include pre-loader	-->
+	<?php include('include-preloader.php');  ?>
+
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
 
@@ -28,24 +31,12 @@
 		<a href="page-blog.php" class="btn-outline btn-outline--light btn--large my-2"><i class="fa fa-long-arrow-left"></i> More Blogs</a>
 
 		<div class="fotorama mx-auto">
-			<a href="img/gallery/patricia-prudente/img-1.jpg" class="lazy">
-				<img src="img/gallery/patricia-prudente/thumb-1.jpg" alt="Photo from Patricia Prudente on unsplash.com" class="">
-			</a>
-			<a href="img/gallery/patricia-prudente/img-2.jpg" class="lazy">
-				<img data-src="img/gallery/patricia-prudente/thumb-2.jpg" alt="Photo from Patricia Prudente on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/patricia-prudente/img-3.jpg" class="lazy">
-				<img data-src="img/gallery/patricia-prudente/thumb-3.jpg" alt="Photo from Patricia Prudente on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/patricia-prudente/img-4.jpg" class="lazy">
-				<img data-src="img/gallery/patricia-prudente/thumb-4.jpg" alt="Photo from Patricia Prudente on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/patricia-prudente/img-5.jpg" class="lazy">
-				<img data-src="img/gallery/patricia-prudente/thumb-5.jpg" alt="Photo from Patricia Prudente on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/patricia-prudente/img-6.jpg" class="lazy">
-				<img data-src="img/gallery/patricia-prudente/thumb-6.jpg" alt="Photo from Patricia Prudente on unsplash.com" class="lazy">
-			</a>
+			<a href="img/gallery/patricia-prudente/img-1.jpg" data-thumb="img/gallery/patricia-prudente/thumb-1.jpg"></a>
+			<a href="img/gallery/patricia-prudente/img-2.jpg" data-thumb="img/gallery/patricia-prudente/thumb-2.jpg"></a>
+			<a href="img/gallery/patricia-prudente/img-3.jpg" data-thumb="img/gallery/patricia-prudente/thumb-3.jpg"></a>
+			<a href="img/gallery/patricia-prudente/img-4.jpg" data-thumb="img/gallery/patricia-prudente/thumb-4.jpg"></a>
+			<a href="img/gallery/patricia-prudente/img-5.jpg" data-thumb="img/gallery/patricia-prudente/thumb-5.jpg"></a>
+			<a href="img/gallery/patricia-prudente/img-6.jpg" data-thumb="img/gallery/patricia-prudente/thumb-6.jpg"></a>
 		</div>
 
 		<div class="blog__info">

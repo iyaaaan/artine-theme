@@ -12,6 +12,9 @@
 
 <body>
 
+	<!-- include pre-loader	-->
+	<?php include('include-preloader.php');  ?>
+
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
 
@@ -28,27 +31,13 @@
 		<a href="page-blog.php" class="btn-outline btn-outline--light btn--large my-2"><i class="fa fa-long-arrow-left"></i> More Blogs</a>
 
 		<div class="fotorama mx-auto" data-nav="thumbs">
-			<a href="img/gallery/vitor-pinto-3/img-1.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-3/thumb-1.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/vitor-pinto-3/img-2.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-3/thumb-2.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/vitor-pinto-3/img-3.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-3/thumb-3.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/vitor-pinto-3/img-4.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-3/thumb-4.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/vitor-pinto-3/img-5.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-3/thumb-5.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/vitor-pinto-3/img-6.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-3/thumb-6.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/vitor-pinto-3/img-7.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-3/thumb-7.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
+			<a href="img/gallery/vitor-pinto-3/img-1.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-1.jpg"></a>
+			<a href="img/gallery/vitor-pinto-3/img-2.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-2.jpg"></a>
+			<a href="img/gallery/vitor-pinto-3/img-3.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-3.jpg"></a>
+			<a href="img/gallery/vitor-pinto-3/img-4.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-4.jpg"></a>
+			<a href="img/gallery/vitor-pinto-3/img-5.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-5.jpg"></a>
+			<a href="img/gallery/vitor-pinto-3/img-6.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-6.jpg"></a>
+			<a href="img/gallery/vitor-pinto-3/img-7.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-7.jpg"></a>
 		</div>
 
 		<div class="blog__info">

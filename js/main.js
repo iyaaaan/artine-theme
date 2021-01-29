@@ -1,3 +1,17 @@
+//pre-loader
+$(function () {
+	$('body, html').addClass('overflow-hidden');
+
+	window.onload = function () {
+		$('.pre-loader').fadeOut('slow', function () {
+			$(this).remove();
+		});
+		$('body, html').removeClass('overflow-hidden');
+		$('body, html').removeAttr('class');
+	};
+});
+
+
 //hides/shows navbar on scroll down/up
 $(function () {
 	var prevScrollpos = window.pageYOffset;

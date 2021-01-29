@@ -99,7 +99,6 @@
 
 <!-- jQuery -->
 <script src="js/jquery.min.js"></script>
-<!--<link rel="preload" href="js/jquery.min.js" as="script"> 
 
 <!--for marking event handler as passive in jquery-->
 <script>
@@ -117,8 +116,7 @@
 <script src="js/jquery-ui.min.js"></script>
 
 <!-- Main Script -->
-<script src="js/main.js"></script>
-<!--  <link rel="preload" href="js/main.min.js" as="script">
+<script src="js/main.min.js"></script>
 
 <!-- AOS -->
 <script src="js/aos.min.js"></script>

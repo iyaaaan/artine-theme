@@ -12,6 +12,9 @@
 
 <body>
 
+	<!-- include pre-loader	-->
+	<?php include('include-preloader.php');  ?>
+
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
 
@@ -28,18 +31,10 @@
 		<a href="page-blog.php" class="btn-outline btn-outline--light btn--large my-2"><i class="fa fa-long-arrow-left"></i> More Blogs</a>
 
 		<div class="fotorama mx-auto">
-			<a href="img/gallery/vitor-pinto-2/img-1.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-2/thumb-1-alt.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/vitor-pinto-2/img-2.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-2/thumb-2.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/vitor-pinto-2/img-3.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-2/thumb-3.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
-			<a href="img/gallery/vitor-pinto-2/img-4.jpg" class="lazy">
-				<img data-src="img/gallery/vitor-pinto-2/thumb-4.jpg" alt="Photo from Vitor Pinto on unsplash.com" class="lazy">
-			</a>
+			<a href="img/gallery/vitor-pinto-2/img-1.jpg" data-thumb="img/gallery/vitor-pinto-2/thumb-1-alt.jpg"></a>
+			<a href="img/gallery/vitor-pinto-2/img-2.jpg" data-thumb="img/gallery/vitor-pinto-2/thumb-2.jpg"></a>
+			<a href="img/gallery/vitor-pinto-2/img-3.jpg" data-thumb="img/gallery/vitor-pinto-2/thumb-3.jpg"></a>
+			<a href="img/gallery/vitor-pinto-2/img-4.jpg" data-thumb="img/gallery/vitor-pinto-2/thumb-4.jpg"></a>
 		</div>
 
 		<div class="blog__info">
@@ -76,7 +71,6 @@
 		});
 
 	</script>
-
 
 </body>
 

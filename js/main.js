@@ -293,7 +293,8 @@ $(function () {
 //initialize fotorama
 $(function () {
 	$('.fotorama').fotorama({
-		dataWidth: '50%',
+		width: '100%',
+		ratio: 4/3,
 		nav: 'thumbs',
 		allowfullscreen: true,
 		keyboard: true,

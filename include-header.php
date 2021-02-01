@@ -1,5 +1,10 @@
 <meta charset="UTF-8">
 
+<meta property="og:title" content="Artine Photography">
+<meta property="og:description" content="Offers photographt services for weddings, birthdays, etc.">
+<meta property="og:image" content="https://www.artine-photography.epizy.com/img/logos/meta-img.jpg">
+<meta property="og:url" content="https://www.artine-photography.epizy.com/">
+
 <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0'>
 <meta name="robots" content="index,nofollow">
 <meta name="description" content="Artine Photography is a team of expertly-trained photographers who captures the best shots for your special day — open for Weddings, Birthdays, Family Portraits, etc.">

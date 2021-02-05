@@ -32,17 +32,17 @@
 @font-face {
   font-family: BebasNeue;
   font-display: swap;
-  src: local("Bebas Neue"), local("Bebas Neue-Regular"), url(../fonts/BebasNeue.ttf);
+  src: local("Bebas Neue"), local("Bebas Neue-Regular"), url(../fonts/BebasNeue.woff);
 }
 @font-face {
   font-family: Montserrat;
   font-display: swap;
-  src: local("Montserrat"), local("Montserrat-Regular"), url(../fonts/Montserrat.ttf);
+  src: local("Montserrat"), local("Montserrat-Regular"), url(../fonts/Montserrat.woff);
 }
 @font-face {
   font-family: PlayfairDisplay;
   font-display: swap;
-  src: local("Playfair Display"), local("Playfair Display-Regular"), url(../fonts/PlayfairDisplay.ttf);
+  src: local("Playfair Display"), local("Playfair Display-Regular"), url(../fonts/PlayfairDisplay.woff);
 }
 /* ############ DEFAULTS ############ */
 * {
@@ -1889,7 +1889,7 @@ textarea:not(:placeholder-shown) {
 /* ############ PAGES ############ */
 /* ############### HERO SECTION ############### */
 .hero {
-  background-image: url(../img/banners/hero-banner.jpg);
+  background-image: url(../img/banners/hero-banner.webp);
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 75%;
@@ -2128,7 +2128,7 @@ textarea:not(:placeholder-shown) {
 
 /* ############ QUOTE SECTION ############ */
 .quote-sec {
-  background-image: url(../img/banners/quote-banner.jpg);
+  background-image: url(../img/banners/quote-banner.webp);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -2251,7 +2251,7 @@ textarea:not(:placeholder-shown) {
   }
 }
 .email-sec::after {
-  background: url(../img/banners/email-highlight.jpg);
+  background: url(../img/banners/email-highlight.webp);
   background-attachment: fixed;
   background-position: center;
   background-size: cover;

@@ -1,7 +1,7 @@
 <header>
 	<nav class="navbar js-navbar">
 		<a href="index.php" class="navbar__logo">
-			<img src="img/logos/artine-logo2.png" width="300px" height="91px" alt="ArtiNe Photography Logo" class="img-fit">
+			<img src="img/logos/artine-logo2.webp" width="300px" height="91px" alt="ArtiNe Photography Logo" class="img-fit">
 		</a>
 
 		<ul class="navbar__menu js-navbar__menu">

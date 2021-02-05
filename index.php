@@ -16,7 +16,6 @@
 
 	<!-- anchor tag for back to top button-->
 	<a name="top"></a>
-
 	<!-- back to top button -->
 	<a href="#top" class="back-to-top js-back-to-top">
 		<i class="fa fa-chevron-up" aria-hidden="true"></i>
@@ -27,7 +26,6 @@
 	<?php include('include-navbar.php'); ?>
 
 	<!-- Hero section -->
-	<section id="hero">
 		<div class="hero flex-center">
 
 			<!-- Overlay -->
@@ -46,79 +44,67 @@
 				<a href="page-contact.php#contact" class="btn btn--large btn--dark">hire us </a>
 			</div>
 		</div> <!-- ./hero -->
-	</section> <!-- /. hero section -->
-
 
 	<!--	About section -->
-	<section id="about-sec">
 		<div class="container">
 			<!--	title -->
-			<h2 class="title" data-aos="fade">We are ArtiNe</h2>
-			<div class="about-sec" data-aos="fade-up">
+			<h2 class="title">We are ArtiNe</h2>
+			<div class="about-sec">
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. In provident dicta odit quis officiis consequatur facere quae quaerat laboriosam ullam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea modi praesentium illo vero assumenda, sit, atque. Qui voluptatibus esse tempora voluptate quia, possimus enim, ipsa beatae, delectus consequuntur quo in nostrum quos aperiam facere optio culpa ut dolores, deserunt. Harum doloribus minus ad unde minima tenetur modi, voluptates. Ullam, commodi!</p>
 			</div>
 		</div>
-	</section> <!-- /. about section -->
-
 
 	<!-- Benefits section -->
-	<section id="benefits">
 		<div class="container-full benefits">
 			<div class="benefits__item">
-				<img data-src="img/icons/pro-cam.png" width="50px" height="50px" class="benefits__icon lazy" alt="Artine Professional Photographers">
+				<img data-src="img/icons/pro-cam.webp" width="50px" height="50px" class="benefits__icon lazy" alt="Artine Professional Photographers">
 				<h5>Professional</h5>
 				<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, officia!</p>
 			</div>
 
 			<div class="benefits__item">
-				<img data-src="img/icons/cheap-price.png" width="50px" height="50px" class="benefits__icon lazy" alt="Affordable Artine Packages">
+				<img data-src="img/icons/cheap-price.webp" width="50px" height="50px" class="benefits__icon lazy" alt="Affordable Artine Packages">
 				<h5>Affordable</h5>
 				<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 			</div>
 
 			<div class="benefits__item">
-				<img data-src="img/icons/image.png" width="50px" height="50px" class="benefits__icon lazy" alt="High Quality Images">
+				<img data-src="img/icons/image.webp" width="50px" height="50px" class="benefits__icon lazy" alt="High Quality Images">
 				<h5>High Quality Artine Images</h5>
 				<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, sunt maxime eaque ea?</p>
 			</div>
 		</div> <!-- ./container -->
-	</section> <!-- /. benefits section -->
-
 
 	<!-- Services section -->
-	<section id="services">
 		<div class="container-full">
 			<!--	title -->
 			<h2 class="title">Services</h2>
 			<div class="flex-center">
-				<div class="services__item" data-aos="fade-right" data-aos-duration="750">
-					<img data-src="img/banners/wedding-banner.jpg" width="1024px" height="768px" class="img-fit lazy" alt="Wedding Packages">
+				<div class="services__item">
+					<img data-src="img/banners/wedding-banner.webp" width="1024px" height="768px" class="img-fit lazy" alt="Wedding Packages">
 				</div>
 
-				<div class="services__item services__text" data-aos="fade" data-aos-duration="750">
+				<div class="services__item services__text">
 					<h2 class="services__header">Weddings</h2>
 					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Recusandae incidunt iure, quos nisi esse ut!</p>
 					<a href="page-packages.php#weddings" class="btn btn--small btn--light">View Packages</a>
 				</div>
 
-				<div class="services__item services__text" data-aos="fade" data-aos-duration="750">
+				<div class="services__item services__text">
 					<h2 class="services__header">Birthdays</h2>
 					<p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum laboriosam culpa quibusdam est optio libero.</p>
 					<a href="page-packages.php#birthdays" class="btn btn--small btn--light">View Packages</a>
 				</div>
 
-				<div class="services__item" data-aos="fade-left" data-aos-duration="750">
-					<img data-src="img/banners/birthday-banner.jpg" width="1024px" height="768px" class="img-fit lazy" alt="Birthday Packages">
+				<div class="services__item">
+					<img data-src="img/banners/birthday-banner.webp" width="1024px" height="768px" class="img-fit lazy" alt="Birthday Packages">
 				</div>
 
-				<a href="page-packages.php" class="btn-outline btn-outline--dark btn--large mt-4 order-last" data-aos="fade-up">SEE MORE</a>
+				<a href="page-packages.php" class="btn-outline btn-outline--dark btn--large mt-4 order-last">SEE MORE</a>
 			</div>
 		</div> <!-- ./container -->
-	</section> <!-- /. services section -->
-
 
 	<!-- Testimonials section -->
-	<section id="testimonials">
 		<div class="container-full relative">
 			<!--	title -->
 			<h2 class="title">Testimonials</h2>
@@ -133,7 +119,7 @@
 				<div class="item">
 					<div class="testimonials">
 						<div class="testimonials__img-wrap">
-							<img src="img/testimonials/testimonial-1.JPG" width="200px" height="200px" class="testimonials__img" alt="ArtiNe's Satisfied Client">
+							<img data-src="img/testimonials/testimonial-1.webp" width="200px" height="200px" class="testimonials__img lazy" alt="ArtiNe's Satisfied Client">
 
 							<div class="star-rating-box">
 								<div class="rating" style="width:90%;"></div>
@@ -150,7 +136,7 @@
 				<div class="item">
 					<div class="testimonials">
 						<div class="testimonials__img-wrap">
-							<img src="img/testimonials/testimonial-1.JPG" width="200px" height="200px" class="testimonials__img" alt="ArtiNe's Satisfied Client">
+							<img data-src="img/testimonials/testimonial-1.webp" width="200px" height="200px" class="testimonials__img lazy" alt="ArtiNe's Satisfied Client">
 
 							<div class="star-rating-box">
 								<div class="rating" style="width:90%;"></div>
@@ -167,7 +153,7 @@
 				<div class="item">
 					<div class="testimonials">
 						<div class="testimonials__img-wrap">
-							<img src="img/testimonials/testimonial-1.JPG" width="200px" height="200px" class="testimonials__img" alt="ArtiNe's Satisfied Client">
+							<img data-src="img/testimonials/testimonial-1.webp" width="200px" height="200px" class="testimonials__img lazy" alt="ArtiNe's Satisfied Client">
 
 							<div class="star-rating-box">
 								<div class="rating" style="width:90%;"></div>
@@ -182,27 +168,21 @@
 				</div> <!-- ./owl item -->
 			</div> <!-- ./owl carousel -->
 		</div> <!-- ./container -->
-	</section> <!-- /. testimonials section -->
-
 
 	<!-- Quote section -->
-	<section id="quote">
 		<div class="quote-sec flex-center">
 			<div class="overlay"></div>
 			<h2 class="quote-sec__text">"Capture Moments that Matter"</h2>
 		</div>
-	</section><!-- /. quote section -->
-
 
 	<!-- Featured section -->
-	<section id="featured">
 		<div class="container-full">
 			<!--	title -->
 			<h2 class="title">Our Latest Work</h2>
 
 			<div class="flex-center">
 				<div class="featured__item">
-					<video controls controlsList="nodownload" playsinline poster="img/video-thumbnails/featured-thumb.jpg" width="640px" height="360px" class="w-100" lazy>
+					<video controls controlsList="nodownload" playsinline poster="img/video-thumbnails/featured-thumb.webp" width="640px" height="360px" class="w-100" lazy>
 						<source data-src="videos/us.mp4" type="video/mp4">
 					</video>
 				</div>
@@ -222,7 +202,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/kendra-allen/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/kendra-allen/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -230,7 +210,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/patricia-prudente/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/patricia-prudente/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -238,7 +218,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/minnie-zhou/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/minnie-zhou/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -246,7 +226,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/ana-tavares/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/ana-tavares/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -254,7 +234,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/yuri-tasso/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/yuri-tasso/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -262,7 +242,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/vitor-pinto/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/vitor-pinto/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -270,7 +250,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/minnie-zhou-2/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/minnie-zhou-2/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -278,7 +258,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/vitor-pinto-3/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/vitor-pinto-3/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -286,7 +266,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/hanna-busing/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/hanna-busing/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -294,7 +274,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/vitor-pinto-2/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/vitor-pinto-2/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -302,7 +282,7 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/kendra-allen-2/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/kendra-allen-2/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 
 						<div class="item">
@@ -310,17 +290,14 @@
 								<span class="overlay__text">View Our Blogs</span>
 							</a>
 
-							<img class="owl-lazy img-fit" data-src="img/gallery/douglas-j-s-moreira/thumb-1.jpg" width="400px" height="300px" alt="Photo from unsplash.com">
+							<img class="owl-lazy img-fit" data-src="img/gallery/douglas-j-s-moreira/thumb-1.webp" width="400px" height="300px" alt="Photo from unsplash.com">
 						</div>
 					</div> <!-- ./owl-carousel -->
 				</div> <!-- ./featured blogs -->
 			</div> <!-- ./flex-center -->
 		</div> <!-- ./container -->
-	</section> <!-- ./blog section -->
-
 
 	<!-- Email section -->
-	<section id="email-sec">
 		<div class="container-full email-sec flex-center">
 			<div class="email-sec__content flex-center">
 				<div class="email-sec__text">
@@ -330,7 +307,7 @@
 				</div>
 
 				<div class="email-sec__img">
-					<img data-src="img/banners/email-banner.jpg" width="500px" height="500px" class="img-fit lazy" alt="">
+					<img data-src="img/banners/email-banner.webp" width="500px" height="500px" class="img-fit lazy" alt="">
 				</div>
 			</div>
 
@@ -381,8 +358,6 @@
 				<label>Note: <span>*</span> indicates required.</label>
 			</form>
 		</div> <!-- ./container -->
-	</section> <!-- /. email section -->
-
 
 	<?php include('include-footer.php') ?>
 

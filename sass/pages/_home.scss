@@ -1,6 +1,6 @@
 /* ############### HERO SECTION ############### */
 .hero {
-	background-image: url(../img/banners/hero-banner.jpg);
+	background-image: url(../img/banners/hero-banner.webp);
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: 75%;
@@ -253,7 +253,7 @@
 
 /* ############ QUOTE SECTION ############ */
 .quote-sec {
-	background-image: url(../img/banners/quote-banner.jpg);
+	background-image: url(../img/banners/quote-banner.webp);
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -387,7 +387,7 @@
 	}
 
 	&::after {
-		background: url(../img/banners/email-highlight.jpg);
+		background: url(../img/banners/email-highlight.webp);
 		background-attachment: fixed;
 		background-position: center;
 		background-size: cover;

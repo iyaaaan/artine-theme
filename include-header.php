@@ -13,9 +13,9 @@
 <link rel="icon" href="img/logos/artine-favicon.png" />
 
 <!-- fonts -->
-<link rel="preload" href="fonts/BebasNeue.ttf" type="font/ttf" as="font" crossorigin="anonymous">
-<link rel="preload" href="fonts/PlayfairDisplay.ttf" type="font/ttf" as="font" crossorigin="anonymous">
-<link rel="preload" href="fonts/Montserrat.ttf" type="font/ttf" as="font" crossorigin="anonymous">
+<link rel="preload" href="fonts/BebasNeue.woff" type="font/woff" as="font" crossorigin="anonymous">
+<link rel="preload" href="fonts/PlayfairDisplay.woff" type="font/woff" as="font" crossorigin="anonymous">
+<link rel="preload" href="fonts/Montserrat.woff" type="font/woff" as="font" crossorigin="anonymous">
 
 <!-- jQuery UI - v1.9.2 -->
 <link rel="preload" href="css/jquery-ui.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -59,18 +59,10 @@
 	<link rel="stylesheet" href="css/lightgallery.min.css">
 </noscript>
 
-<!-- AOS -->
-<link rel="preload" href="css/aos.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-
-<!-- AOS fallback -->
-<noscript>
-	<link rel="stylesheet" href="css/aos.min.css">
-</noscript>
-
 <!-- compiled css styles -->
 <link rel="preload" href="css/main.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
 <!-- main styles fallback -->
 <noscript>
-<link rel="stylesheet" href="css/main.min.css">
+	<link rel="stylesheet" href="css/main.min.css">
 </noscript>

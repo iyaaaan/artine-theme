@@ -2717,6 +2717,7 @@ textarea:not(:placeholder-shown) {
 .gallery__item img {
   display: block;
   max-width: 100%;
+  height: auto;
 }
 .gallery__overlay {
   width: 100%;

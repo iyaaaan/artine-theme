@@ -116,7 +116,7 @@
 <script defer src="js/jquery-ui.min.js"></script>
 
 <!-- Main Script -->
-<script src="js/main.min.js"></script>
+<script src="js/main.js"></script>
 
 <!-- Fotorama -->
 <script defer src="js/fotorama.min.js"></script>

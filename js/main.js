@@ -133,7 +133,26 @@ $(function () {
 
 //gallery
 $(function () {
-	var $grid = $('.gallery').imagesLoaded(function () {
+	
+	// working isotope with masonry and imagesLoaded but no lazyload
+		//	var $grid = $('.gallery').imagesLoaded(function () {
+		//		$grid.isotope({
+		//			itemSelector: '.gallery__item',
+		//			percentPosition: true,
+		//
+		//			masonry: {
+		//				// use outer width of grid-sizer for columnWidth
+		//				columnWidth: '.gallery__sizer',
+		//				gutter: '.gallery__gutter'
+		//			}
+		//		});
+		//	});
+
+	jQuery(document).ready(function ($) {
+		var $win = $(window),
+			$grid = $('.gallery').imagesLoaded(),
+			$imgs = $(".gallery__item img");
+
 		$grid.isotope({
 			itemSelector: '.gallery__item',
 			percentPosition: true,
@@ -144,35 +163,43 @@ $(function () {
 				gutter: '.gallery__gutter'
 			}
 		});
-	});
 
-	// filter functions
-	var filterFns = {};
-
-	// bind filter button click
-	$('.gallery-filter').on('click', 'button', function () {
-		var filterValue = $(this).attr('data-filter');
-		// use filterFn if matches value
-		filterValue = filterFns[filterValue] || filterValue;
-		$grid.isotope({
-			filter: filterValue
+		$grid.on('layoutComplete', function () {
+			$win.trigger("scroll");
 		});
 
-		$(".gallery").data('lightGallery').destroy(true);
-		$(".gallery").lightGallery({
-			selector: filterValue.replace('*', '')
-		});
-	});
-
-	// change active state class on buttons
-	$('.gallery-filter').each(function (i, buttonGroup) {
-		var $buttonGroup = $(buttonGroup);
-		$buttonGroup.on('click', 'button', function () {
-			$buttonGroup.find('.is-active').removeClass('is-active');
-			$(this).addClass('is-active');
-
+		$imgs.lazy({
+			failure_limit: Math.max($imgs.length - 1, 0)
 		});
 
+		// filter functions
+		var filterFns = {};
+
+		// bind filter button click
+		$('.gallery-filter').on('click', 'button', function () {
+			var filterValue = $(this).attr('data-filter');
+			// use filterFn if matches value
+			filterValue = filterFns[filterValue] || filterValue;
+			$grid.isotope({
+				filter: filterValue
+			});
+
+			$(".gallery").data('lightGallery').destroy(true);
+			$(".gallery").lightGallery({
+				selector: filterValue.replace('*', '')
+			});
+		});
+
+		// change active state class on buttons
+		$('.gallery-filter').each(function (i, buttonGroup) {
+			var $buttonGroup = $(buttonGroup);
+			$buttonGroup.on('click', 'button', function () {
+				$buttonGroup.find('.is-active').removeClass('is-active');
+				$(this).addClass('is-active');
+
+			});
+
+		});
 	});
 });
 
@@ -259,7 +286,7 @@ $(function () {
 $(function () {
 	$('.fotorama').fotorama({
 		width: '100%',
-		ratio: 4/3,
+		ratio: 4 / 3,
 		nav: 'thumbs',
 		allowfullscreen: true,
 		keyboard: true,

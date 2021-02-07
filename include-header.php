@@ -13,9 +13,9 @@
 <link rel="icon" href="img/logos/artine-favicon.png" />
 
 <!-- fonts -->
-<link rel="preload" href="fonts/BebasNeue.woff" type="font/woff" as="font" crossorigin="anonymous">
-<link rel="preload" href="fonts/PlayfairDisplay.woff" type="font/woff" as="font" crossorigin="anonymous">
-<link rel="preload" href="fonts/Montserrat.woff" type="font/woff" as="font" crossorigin="anonymous">
+<link rel="preload" as="font" href="fonts/BebasNeue.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="fonts/PlayfairDisplay-Regular.woff2" type="font/woff2" crossorigin="anonymous">
+<link rel="preload" as="font" href="fonts/Montserrat-Regular.woff2" type="font/woff2" crossorigin="anonymous">
 
 <!-- jQuery UI - v1.9.2 -->
 <link rel="preload" href="css/jquery-ui.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">

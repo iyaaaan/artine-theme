@@ -31,18 +31,25 @@
 
 @font-face {
   font-family: BebasNeue;
+  font-weight: 400;
+  font-style: normal;
   font-display: swap;
-  src: local("Bebas Neue"), local("Bebas Neue-Regular"), url(../fonts/BebasNeue.woff);
+  unicode-range: U+000-5FF;
+  src: local("Bebas Neue"), local("Bebas Neue-Regular"), url(../fonts/BebasNeue.woff2) format("woff2"), url(../fonts/BebasNeue.woff) format("woff");
 }
 @font-face {
   font-family: Montserrat;
+  font-weight: 400;
+  font-style: normal;
   font-display: swap;
-  src: local("Montserrat"), local("Montserrat-Regular"), url(../fonts/Montserrat.woff);
+  unicode-range: U+000-5FF;
+  src: local("Montserrat"), local("Montserrat-Regular"), url(../fonts/Montserrat-Regular.woff2) format("woff2"), url(../fonts/Montserrat-Regular.woff) format("woff");
 }
 @font-face {
   font-family: PlayfairDisplay;
   font-display: swap;
-  src: local("Playfair Display"), local("Playfair Display-Regular"), url(../fonts/PlayfairDisplay.woff);
+  unicode-range: U+000-5FF;
+  src: local("Playfair Display"), local("PlayfairDisplay-Regular"), url(../fonts/PlayfairDisplay-Regular.woff2) format("woff2"), url(../fonts/PlayfairDisplay-Regular.woff) format("woff");
 }
 /* ############ DEFAULTS ############ */
 * {

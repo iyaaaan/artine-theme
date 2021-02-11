@@ -31,12 +31,12 @@
 		<a href="page-blog.php" class="btn-outline btn-outline--light btn--large my-2"><i class="fa fa-long-arrow-left"></i> More Blogs</a>
 
 		<div class="fotorama mx-auto">
-			<a href="img/gallery/kendra-allen/img-1.jpg" data-thumb="img/gallery/kendra-allen/thumb-1.jpg"></a>
-			<a href="img/gallery/kendra-allen/img-2.jpg" data-thumb="img/gallery/kendra-allen/thumb-2.jpg"></a>
-			<a href="img/gallery/kendra-allen/img-3.jpg" data-thumb="img/gallery/kendra-allen/thumb-3.jpg"></a>
-			<a href="img/gallery/kendra-allen/img-4.jpg" data-thumb="img/gallery/kendra-allen/thumb-4.jpg"></a>
-			<a href="img/gallery/kendra-allen/img-5.jpg" data-thumb="img/gallery/kendra-allen/thumb-5.jpg"></a>
-			<a href="img/gallery/kendra-allen/img-6.jpg" data-thumb="img/gallery/kendra-allen/thumb-6.jpg"></a>
+			<a href="img/gallery/kendra-allen/img-1.webp" data-thumb="img/gallery/kendra-allen/thumb-1.webp"></a>
+			<a href="img/gallery/kendra-allen/img-2.webp" data-thumb="img/gallery/kendra-allen/thumb-2.webp"></a>
+			<a href="img/gallery/kendra-allen/img-3.webp" data-thumb="img/gallery/kendra-allen/thumb-3.webp"></a>
+			<a href="img/gallery/kendra-allen/img-4.webp" data-thumb="img/gallery/kendra-allen/thumb-4.webp"></a>
+			<a href="img/gallery/kendra-allen/img-5.webp" data-thumb="img/gallery/kendra-allen/thumb-5.webp"></a>
+			<a href="img/gallery/kendra-allen/img-6.webp" data-thumb="img/gallery/kendra-allen/thumb-6.webp"></a>
 		</div>
 
 		<div class="blog__info">

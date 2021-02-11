@@ -28,12 +28,12 @@
 	<!-- Package hero -->
 	<section>
 		<div class="hero-banner">
-			<img src="img/banners/package-banner.jpg" alt="Photo of: andy-art" class="img-fit">
+			<img src="img/banners/package-banner.webp" alt="Photo of: andy-art" class="img-fit">
 		</div>
 	</section>
 
 	<div class="container package-text">
-		<div data-aos="fade-up">
+		<div>
 			<p>Following are the standard packages we've prepared especially for your day! Choose a package that makes you feel comfortable. ;)</p>
 			<p>If you have suggestions or additional request about the package you chose, please feel free to include that once you e-mail us. ArtiNe will meet you to discuss further negotiations to meet your needs and satisfaction. Thank you!</p>
 		</div>
@@ -42,12 +42,12 @@
 	<!-- wedding package -->
 	<section>
 		<!-- wedding banner -->
-		<div class="highlight-banner wedding-banner" id="weddings"></div>
+		<div class="highlight-banner wedding-banner lazy" id="weddings"></div>
 
 		<div class="container">
-			<h2 class="title" data-aos="fade">Weddings</h2>
+			<h2 class="title">Weddings</h2>
 			<div class="package">
-				<div class="package__item" data-aos="zoom-in-right" data-aos-delay="100">
+				<div class="package__item">
 					<div class="package__name">Diamond Package</div>
 					<h3 class="package__price">$300.00</h3>
 					<ul class="package__content">
@@ -58,7 +58,7 @@
 					</ul>
 				</div>
 
-				<div class="package__item" data-aos="zoom-in" data-aos-delay="300">
+				<div class="package__item">
 					<div class="package__name">Ruby Package</div>
 					<h3 class="package__price">$230.00</h3>
 					<ul class="package__content">
@@ -71,7 +71,7 @@
 					</ul>
 				</div>
 
-				<div class="package__item" data-aos="zoom-in-left" data-aos-delay="200">
+				<div class="package__item">
 					<div class="package__name">Emerald Package</div>
 					<h3 class="package__price">$150.00</h3>
 					<ul class="package__content">
@@ -93,11 +93,11 @@
 	<!-- birthday package -->
 	<section>
 		<!-- birthday banner -->
-		<div class="highlight-banner birthday-banner" id="birthdays"></div>
+		<div class="highlight-banner birthday-banner lazy" id="birthdays"></div>
 		<div class="container">
-			<h2 class="title" data-aos="fade">Birthdays</h2>
+			<h2 class="title">Birthdays</h2>
 			<div class="package">
-				<div class="package__item" data-aos="fade-right" data-aos-delay="100">
+				<div class="package__item">
 					<div class="package__name">Diamond Package</div>
 					<h3 class="package__price">$300.00</h3>
 					<ul class="package__content">
@@ -108,7 +108,7 @@
 					</ul>
 				</div>
 
-				<div class="package__item" data-aos="fade" data-aos-delay="300">
+				<div class="package__item">
 					<div class="package__name">Ruby Package</div>
 					<h3 class="package__price">$230.00</h3>
 					<ul class="package__content">
@@ -121,7 +121,7 @@
 					</ul>
 				</div>
 
-				<div class="package__item" data-aos="fade-left" data-aos-delay="200">
+				<div class="package__item">
 					<div class="package__name">Emerald Package</div>
 					<h3 class="package__price">$150.00</h3>
 					<ul class="package__content">
@@ -142,11 +142,11 @@
 
 	<!-- baby package -->
 	<section>
-		<div class="highlight-banner baby-banner" id="baby"></div>
+		<div class="highlight-banner baby-banner lazy" id="baby"></div>
 		<div class="container">
-			<h2 class="title" data-aos="fade">Baby Photoshoot</h2>
+			<h2 class="title">Baby Photoshoot</h2>
 			<div class="package">
-				<div class="package__item" data-aos="flip-right" data-aos-delay="100">
+				<div class="package__item">
 					<div class="package__name">Diamond Package</div>
 					<h3 class="package__price">$300.00</h3>
 					<ul class="package__content">
@@ -157,7 +157,7 @@
 					</ul>
 				</div>
 
-				<div class="package__item" data-aos="flip-down" data-aos-delay="300">
+				<div class="package__item">
 					<div class="package__name">Ruby Package</div>
 					<h3 class="package__price">$230.00</h3>
 					<ul class="package__content">
@@ -170,7 +170,7 @@
 					</ul>
 				</div>
 
-				<div class="package__item" data-aos="flip-right" data-aos-delay="200">
+				<div class="package__item">
 					<div class="package__name">Emerald Package</div>
 					<h3 class="package__price">$150.00</h3>
 					<ul class="package__content">
@@ -191,11 +191,11 @@
 
 	<!-- family package -->
 	<section>
-		<div class="highlight-banner family-banner"></div>
+		<div class="highlight-banner family-banner lazy"></div>
 		<div class="container">
-			<h2 class="title" data-aos="fade">Family Portrait</h2>
+			<h2 class="title">Family Portrait</h2>
 			<div class="package">
-				<div class="package__item" data-aos="zoom-out" data-aos-delay="100">
+				<div class="package__item">
 					<div class="package__name">Diamond Package</div>
 					<h3 class="package__price">$300.00</h3>
 					<ul class="package__content">
@@ -206,7 +206,7 @@
 					</ul>
 				</div>
 
-				<div class="package__item" data-aos="zoom-out" data-aos-delay="300">
+				<div class="package__item">
 					<div class="package__name">Ruby Package</div>
 					<h3 class="package__price">$230.00</h3>
 					<ul class="package__content">
@@ -219,7 +219,7 @@
 					</ul>
 				</div>
 
-				<div class="package__item" data-aos="zoom-out" data-aos-delay="200">
+				<div class="package__item">
 					<div class="package__name">Emerald Package</div>
 					<h3 class="package__price">$150.00</h3>
 					<ul class="package__content">
@@ -241,11 +241,11 @@
 
 	<!-- food package -->
 	<section>
-		<div class="highlight-banner food-banner"></div>
+		<div class="highlight-banner food-banner lazy"></div>
 		<div class="container">
-			<h2 class="title" data-aos="fade">Food Photography</h2>
+			<h2 class="title">Food Photography</h2>
 			<div class="package">
-				<div class="package__item" data-aos="zoom-out" data-aos-delay="100">
+				<div class="package__item">
 					<div class="package__name">Diamond Package</div>
 					<h3 class="package__price">$300.00</h3>
 					<ul class="package__content">
@@ -256,7 +256,7 @@
 					</ul>
 				</div>
 
-				<div class="package__item" data-aos="zoom-out" data-aos-delay="300">
+				<div class="package__item">
 					<div class="package__name">Ruby Package</div>
 					<h3 class="package__price">$230.00</h3>
 					<ul class="package__content">
@@ -269,7 +269,7 @@
 					</ul>
 				</div>
 
-				<div class="package__item" data-aos="zoom-out" data-aos-delay="200">
+				<div class="package__item">
 					<div class="package__name">Emerald Package</div>
 					<h3 class="package__price">$150.00</h3>
 					<ul class="package__content">

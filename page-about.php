@@ -27,20 +27,19 @@
 
 	<!-- about-hero -->
 	<div class="hero-banner">
-		<img src="img/banners/about-banner.jpg" alt="Artine Photography Family" class="img-fit">
+		<img data-src="img/banners/about-banner.webp" alt="Artine Photography Family" class="img-fit lazy" width="1400px" height="800px">
 	</div>
 
 	<div class="container">
 		<!--	title -->
-		<h2 class="title" data-aos="fade">Our Story</h2>
-		<div class="our-story" data-aos="fade-up">
+		<h2 class="title">Our Story</h2>
+		<div class="our-story">
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste eaque porro odit, nihil officia quisquam recusandae ducimus enim voluptatum quos, aut minus adipisci tenetur consectetur nulla! Vero quos eum expedita culpa. Consequatur dignissimos nisi, eius cum mollitia, accusantium ipsum sit aliquid rem laborum illum nulla asperiores alias magni molestiae aliquam. Nam quo, assumenda, iste quos quidem, architecto dolores rem, neque illum nulla harum repudiandae nihil voluptates atque nostrum et porro similique aut dicta eligendi laboriosam eum? Inventore, harum eius impedit.</p>
 			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit in consequuntur repellat iusto quod officia obcaecati excepturi delectus pariatur rerum quibusdam nostrum autem, soluta sint debitis fuga culpa saepe reiciendis, eligendi id perspiciatis, ducimus optio! Eius natus, quasi, officia dolorem tempora omnis ad autem doloribus delectus, ea accusantium obcaecati assumenda!</p>
 		</div>
 	</div>
 
 	<!--	our team -->
-	<section>
 		<div class="container">
 			<h2 class="title">Meet the Team</h2>
 
@@ -48,7 +47,7 @@
 
 				<!-- team card -->
 				<div class="team-card">
-					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-1" onclick="openTeamModal(this);">
+					<img data-src="img/team/team-1.webp" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-1" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ Jr.</span>
@@ -59,7 +58,7 @@
 
 				<!-- team card -->
 				<div class="team-card">
-					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-2" onclick="openTeamModal(this);">
+					<img data-src="img/team/team-1.webp" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-2" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ II</span>
@@ -69,7 +68,7 @@
 
 				<!-- team card -->
 				<div class="team-card">
-					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-3" onclick="openTeamModal(this);">
+					<img data-src="img/team/team-1.webp" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-3" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ III</span>
@@ -79,7 +78,7 @@
 
 				<!-- team card -->
 				<div class="team-card">
-					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-4" onclick="openTeamModal(this);">
+					<img data-src="img/team/team-1.webp" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-4" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ Sr.</span>
@@ -89,7 +88,7 @@
 
 				<!-- team card -->
 				<div class="team-card">
-					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-5" onclick="openTeamModal(this);">
+					<img data-src="img/team/team-1.webp" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-5" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ V</span>
@@ -99,7 +98,7 @@
 
 				<!-- team card -->
 				<div class="team-card">
-					<img data-src="img/team/team-1.jpg" alt="Juan Dela Cruz Jr." class="img-fit team-img lazy" data-target="member-6" onclick="openTeamModal(this);">
+					<img data-src="img/team/team-1.webp" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-6" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ VI</span>
@@ -109,17 +108,15 @@
 
 			</div> <!-- ./team -->
 		</div> <!-- ./container-full -->
-	</section>
 
-	<section>
 		<div class="container-full">
 			<!--	title -->
 			<h2 class="title">Why ArtiNe?</h2>
 
 			<div class="flex-center mb-5">
 				<div class="featured__item">
-					<video controls controlsList="nodownload" playsinline poster="img/video-thumbnails/explainer-thumb.jpg" class="w-100 lazy">
-						<source data-src="videos/explainer.mp4" type="video/mp4">
+					<video controls controlsList="nodownload" playsinline poster="img/video-thumbnails/explainer-thumb.webp" class="w-100" width="640px" height="360px">
+						<source src="videos/explainer.mp4" type="video/mp4">
 					</video>
 				</div>
 
@@ -132,20 +129,20 @@
 
 			<div class="benefits">
 				<div class="benefits__item">
-					<img data-src="img/icons/pro-cam.png" class="benefits__icon lazy" alt="Professional Photographers">
+					<img data-src="img/icons/pro-cam.webp" width="50px" height="50px" class="benefits__icon lazy" alt="Artine Professional Photographers">
 					<h5>Professional</h5>
 					<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, officia!</p>
 				</div>
 
 				<div class="benefits__item">
-					<img data-src="img/icons/cheap-price.png" class="benefits__icon lazy" alt="Affordable">
+					<img data-src="img/icons/cheap-price.webp" width="50px" height="50px" class="benefits__icon lazy" alt="Affordable Artine Packages">
 					<h5>Affordable</h5>
 					<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 				</div>
 
 				<div class="benefits__item">
-					<img data-src="img/icons/image.png" class="benefits__icon lazy" alt="High Quality Images">
-					<h5>High Quality</h5>
+					<img data-src="img/icons/image.webp" width="50px" height="50px" class="benefits__icon lazy" alt="High Quality Images">
+					<h5>High Quality Artine Images</h5>
 					<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, sunt maxime eaque ea?</p>
 				</div>
 			</div>
@@ -180,9 +177,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
 
-	<section>
 		<div class="container">
 			<div class="book-now">
 				<div class="book-now__content">
@@ -192,12 +187,10 @@
 				</div>
 
 				<div class="book-now__img">
-					<img data-src="img/banners/book-banner.png" alt="Telephone" class="img-fit lazy">
+					<img data-src="img/banners/book-banner.webp" alt="Telephone" class="img-fit lazy" width="500px" height="350px">
 				</div>
 			</div>
 		</div>
-	</section>
-
 
 	<!-- include team-modal -->
 	<?php include('modal-team.php') ?>

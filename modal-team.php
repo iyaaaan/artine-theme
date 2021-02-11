@@ -8,7 +8,7 @@
 
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img data-src="img/team/team-1-thumb.jpg" alt="Artine Team" class="img-fit rounded lazy">
+					<img data-src="img/team/team-1-thumb.webp" alt="Artine Team" class="img-fit rounded lazy" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -74,7 +74,7 @@
 			<div class="team-modal__close" onclick="closeTeamModal()"><i class="fa fa-times" aria-hidden="true"></i></div>
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img data-src="img/team/team-1-thumb.jpg" alt="Artine Team" class="img-fit rounded lazy">
+					<img data-src="img/team/team-1-thumb.webp" alt="Artine Team" class="img-fit rounded lazy" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -140,7 +140,7 @@
 
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img data-src="img/team/team-1-thumb.jpg" alt="Artine Team" class="img-fit rounded lazy">
+					<img data-src="img/team/team-1-thumb.webp" alt="Artine Team" class="img-fit rounded lazy" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -207,7 +207,7 @@
 
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img data-src="img/team/team-1-thumb.jpg" alt="Artine Team" class="img-fit rounded lazy">
+					<img data-src="img/team/team-1-thumb.webp" alt="Artine Team" class="img-fit rounded lazy" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -274,7 +274,7 @@
 
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img data-src="img/team/team-1-thumb.jpg" alt="Artine Team" class="img-fit rounded lazy">
+					<img data-src="img/team/team-1-thumb.webp" alt="Artine Team" class="img-fit rounded lazy" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -341,7 +341,7 @@
 
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img data-src="img/team/team-1-thumb.jpg" alt="Artine Team" class="img-fit rounded lazy">
+					<img data-src="img/team/team-1-thumb.webp" alt="Artine Team" class="img-fit rounded lazy" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">

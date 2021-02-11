@@ -133,20 +133,20 @@ $(function () {
 
 //gallery
 $(function () {
-	
+
 	// working isotope with masonry and imagesLoaded but no lazyload
-		//	var $grid = $('.gallery').imagesLoaded(function () {
-		//		$grid.isotope({
-		//			itemSelector: '.gallery__item',
-		//			percentPosition: true,
-		//
-		//			masonry: {
-		//				// use outer width of grid-sizer for columnWidth
-		//				columnWidth: '.gallery__sizer',
-		//				gutter: '.gallery__gutter'
-		//			}
-		//		});
-		//	});
+	//	var $grid = $('.gallery').imagesLoaded(function () {
+	//		$grid.isotope({
+	//			itemSelector: '.gallery__item',
+	//			percentPosition: true,
+	//
+	//			masonry: {
+	//				// use outer width of grid-sizer for columnWidth
+	//				columnWidth: '.gallery__sizer',
+	//				gutter: '.gallery__gutter'
+	//			}
+	//		});
+	//	});
 
 	jQuery(document).ready(function ($) {
 		var $win = $(window),
@@ -279,7 +279,17 @@ $(function () {
 
 //initialize jQuery Lazy Load
 $(function () {
-	$('.lazy').lazy();
+	$('.lazy').Lazy({
+		// your configuration goes here
+		scrollDirection: 'vertical',
+		effect: 'fadeIn',
+		effectTime: 750,
+		threshold: 0,
+		visibleOnly: true,
+		onError: function (element) {
+			console.log('error loading ' + element.data('src'));
+		}
+	});
 });
 
 //initialize fotorama

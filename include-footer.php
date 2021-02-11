@@ -98,7 +98,7 @@
 <!-- External JS Files -->
 
 <!-- jQuery -->
-<script src="js/jquery.min.js"></script> 
+<script src="js/jquery.min.js"></script>
 
 <!--for marking event handler as passive in jquery-->
 <script>
@@ -117,6 +117,19 @@
 
 <!-- Main Script -->
 <script src="js/main.js"></script>
+
+<script type="text/javascript">
+	[
+		'../js/jquery.min.js',
+		'../js/main.min.js'
+	].forEach(function(src) {
+		var script = document.createElement('script');
+		script.src = src;
+		script.async = false;
+		document.head.appendChild(script);
+	});
+
+</script>
 
 <!-- Fotorama -->
 <script defer src="js/fotorama.min.js"></script>

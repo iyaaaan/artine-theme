@@ -31,13 +31,13 @@
 		<a href="page-blog.php" class="btn-outline btn-outline--light btn--large my-2"><i class="fa fa-long-arrow-left"></i> More Blogs</a>
 
 		<div class="fotorama mx-auto" data-nav="thumbs">
-			<a href="img/gallery/vitor-pinto-3/img-1.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-1.jpg"></a>
-			<a href="img/gallery/vitor-pinto-3/img-2.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-2.jpg"></a>
-			<a href="img/gallery/vitor-pinto-3/img-3.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-3.jpg"></a>
-			<a href="img/gallery/vitor-pinto-3/img-4.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-4.jpg"></a>
-			<a href="img/gallery/vitor-pinto-3/img-5.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-5.jpg"></a>
-			<a href="img/gallery/vitor-pinto-3/img-6.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-6.jpg"></a>
-			<a href="img/gallery/vitor-pinto-3/img-7.jpg" data-thumb="img/gallery/vitor-pinto-3/thumb-7.jpg"></a>
+			<a href="img/gallery/vitor-pinto-3/img-1.webp" data-thumb="img/gallery/vitor-pinto-3/thumb-1.webp"></a>
+			<a href="img/gallery/vitor-pinto-3/img-2.webp" data-thumb="img/gallery/vitor-pinto-3/thumb-2.webp"></a>
+			<a href="img/gallery/vitor-pinto-3/img-3.webp" data-thumb="img/gallery/vitor-pinto-3/thumb-3.webp"></a>
+			<a href="img/gallery/vitor-pinto-3/img-4.webp" data-thumb="img/gallery/vitor-pinto-3/thumb-4.webp"></a>
+			<a href="img/gallery/vitor-pinto-3/img-5.webp" data-thumb="img/gallery/vitor-pinto-3/thumb-5.webp"></a>
+			<a href="img/gallery/vitor-pinto-3/img-6.webp" data-thumb="img/gallery/vitor-pinto-3/thumb-6.webp"></a>
+			<a href="img/gallery/vitor-pinto-3/img-7.webp" data-thumb="img/gallery/vitor-pinto-3/thumb-7.webp"></a>
 		</div>
 
 		<div class="blog__info">

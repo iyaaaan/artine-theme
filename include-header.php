@@ -10,7 +10,7 @@
 <meta name="description" content="Artine Photography is a team of expertly-trained photographers who captures the best shots for your special day — open for Weddings, Birthdays, Family Portraits, etc.">
 
 <!-- favicon -->
-<link rel="icon" href="img/logos/artine-favicon.png" />
+<link rel="icon" href="img/logos/artine-favicon.webp"/>
 
 <!-- fonts -->
 <link rel="preload" as="font" href="fonts/BebasNeue.woff2" type="font/woff2" crossorigin="anonymous">

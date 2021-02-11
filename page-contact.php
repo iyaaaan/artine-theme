@@ -27,7 +27,7 @@
 
 	<!-- contact-hero -->
 	<div class="hero-banner">
-		<img src="img/banners/contact-banner.jpg" alt="Contact Banner" class="img-fit">
+		<img src="img/banners/contact-banner.webp" alt="Contact Banner" class="img-fit">
 	</div>
 
 	<div class="container-full" id="contact">

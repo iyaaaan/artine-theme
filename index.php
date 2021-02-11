@@ -182,8 +182,8 @@
 
 			<div class="flex-center">
 				<div class="featured__item">
-					<video controls controlsList="nodownload" playsinline poster="img/video-thumbnails/featured-thumb.webp" width="640px" height="360px" class="w-100" lazy>
-						<source data-src="videos/us.mp4" type="video/mp4">
+					<video controls controlsList="nodownload" playsinline poster="img/video-thumbnails/featured-thumb.webp" width="640px" height="360px" class="w-100">
+						<source src="videos/us.mp4" type="video/mp4">
 					</video>
 				</div>
 

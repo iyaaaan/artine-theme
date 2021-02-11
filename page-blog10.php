@@ -31,10 +31,10 @@
 		<a href="page-blog.php" class="btn-outline btn-outline--light btn--large my-2"><i class="fa fa-long-arrow-left"></i> More Blogs</a>
 
 		<div class="fotorama mx-auto">
-			<a href="img/gallery/vitor-pinto-2/img-1.jpg" data-thumb="img/gallery/vitor-pinto-2/thumb-1-alt.jpg"></a>
-			<a href="img/gallery/vitor-pinto-2/img-2.jpg" data-thumb="img/gallery/vitor-pinto-2/thumb-2.jpg"></a>
-			<a href="img/gallery/vitor-pinto-2/img-3.jpg" data-thumb="img/gallery/vitor-pinto-2/thumb-3.jpg"></a>
-			<a href="img/gallery/vitor-pinto-2/img-4.jpg" data-thumb="img/gallery/vitor-pinto-2/thumb-4.jpg"></a>
+			<a href="img/gallery/vitor-pinto-2/img-1.webp" data-thumb="img/gallery/vitor-pinto-2/thumb-1-alt.webp"></a>
+			<a href="img/gallery/vitor-pinto-2/img-2.webp" data-thumb="img/gallery/vitor-pinto-2/thumb-2.webp"></a>
+			<a href="img/gallery/vitor-pinto-2/img-3.webp" data-thumb="img/gallery/vitor-pinto-2/thumb-3.webp"></a>
+			<a href="img/gallery/vitor-pinto-2/img-4.webp" data-thumb="img/gallery/vitor-pinto-2/thumb-4.webp"></a>
 		</div>
 
 		<div class="blog__info">

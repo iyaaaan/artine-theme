@@ -27,19 +27,19 @@
 
 	<!-- hero image -->
 	<div class="hero-banner">
-		<img src="img/banners/blog-banner.jpg" alt="Blog Banner" class="img-fit">
+		<img src="img/banners/blog-banner.webp" alt="Blog Banner" class="img-fit">
 	</div>
 
 	<div class="container">
 		<!-- title -->
-		<h2 class="title" data-aos="fade">Our Blogs</h2>
+		<h2 class="title">Our Blogs</h2>
 
 		<!-- blog -->
 		<div class="blog">
 
 			<!-- blog item -->
-			<a href="page-blog1.php" id="jose-maria" class="blog__item" data-aos="fade" data-aos-delay="100">
-				<img data-src="img/gallery/kendra-allen/thumb-1.jpg" alt="Photo by: Kendra Allen on Unsplash" class="img-fit lazy">
+			<a href="page-blog1.php" id="jose-maria" class="blog__item">
+				<img data-src="img/gallery/kendra-allen/thumb-1.webp" alt="Photo by: Kendra Allen on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -55,8 +55,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog2.php" id="patricia" class="blog__item" data-aos="fade" data-aos-delay="200">
-				<img data-src="img/gallery/patricia-prudente/thumb-1.jpg" alt="Photo by: Patricia Prudente on Unsplash" class="img-fit lazy">
+			<a href="page-blog2.php" id="patricia" class="blog__item">
+				<img data-src="img/gallery/patricia-prudente/thumb-1.webp" alt="Photo by: Patricia Prudente on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -72,8 +72,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog3.php" id="baby-zhou" class="blog__item" data-aos="fade" data-aos-delay="300">
-				<img data-src="img/gallery/minnie-zhou/thumb-1.jpg" alt="Photo by: Minnie Zhou on Unsplash" class="img-fit lazy">
+			<a href="page-blog3.php" id="baby-zhou" class="blog__item">
+				<img data-src="img/gallery/minnie-zhou/thumb-1.webp" alt="Photo by: Minnie Zhou on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -89,8 +89,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog4.php" id="ana-7th" class="blog__item" data-aos="fade" data-aos-delay="100">
-				<img data-src="img/gallery/ana-tavares/thumb-1.jpg" alt="Photo by: Ana Tavares on Unsplash" class="img-fit lazy">
+			<a href="page-blog4.php" id="ana-7th" class="blog__item">
+				<img data-src="img/gallery/ana-tavares/thumb-1.webp" alt="Photo by: Ana Tavares on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -106,8 +106,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog5.php" id="baby-yuri" class="blog__item" data-aos="fade" data-aos-delay="200">
-				<img data-src="img/gallery/yuri-tasso/thumb-1.jpg" alt="Photo by: Yuri Tasso on Unsplash" class="img-fit lazy">
+			<a href="page-blog5.php" id="baby-yuri" class="blog__item">
+				<img data-src="img/gallery/yuri-tasso/thumb-1.webp" alt="Photo by: Yuri Tasso on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -123,8 +123,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog6.php" id="vitor-jillian" class="blog__item" data-aos="fade" data-aos-delay="300">
-				<img data-src="img/gallery/vitor-pinto/thumb-1.jpg" alt="Photo by: Vitor Pito on Unsplash" class="img-fit lazy">
+			<a href="page-blog6.php" id="vitor-jillian" class="blog__item">
+				<img data-src="img/gallery/vitor-pinto/thumb-1.webp" alt="Photo by: Vitor Pito on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -140,8 +140,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog7.php" id="baby-joven" class="blog__item" data-aos="fade" data-aos-delay="100">
-				<img data-src="img/gallery/minnie-zhou-2/thumb-1.jpg" alt="Photo by: Minnie Zhou on Unsplash" class="img-fit lazy">
+			<a href="page-blog7.php" id="baby-joven" class="blog__item">
+				<img data-src="img/gallery/minnie-zhou-2/thumb-1.webp" alt="Photo by: Minnie Zhou on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -157,8 +157,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog8.php" id="kian-rose" class="blog__item" data-aos="fade" data-aos-delay="200">
-				<img data-src="img/gallery/vitor-pinto-3/thumb-1.jpg" alt="Photo by: Vitor Pito on Unsplash" class="img-fit lazy">
+			<a href="page-blog8.php" id="kian-rose" class="blog__item">
+				<img data-src="img/gallery/vitor-pinto-3/thumb-1.webp" alt="Photo by: Vitor Pito on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -174,8 +174,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog9.php" id="hanna-debut" class="blog__item" data-aos="fade" data-aos-delay="300">
-				<img data-src="img/gallery/hanna-busing/thumb-1.jpg" alt="Photo by: Hannah Busing on Unsplash" class="img-fit lazy">
+			<a href="page-blog9.php" id="hanna-debut" class="blog__item">
+				<img data-src="img/gallery/hanna-busing/thumb-1.webp" alt="Photo by: Hannah Busing on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -191,8 +191,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog10.php" id="jake-joanna" class="blog__item" data-aos="fade" data-aos-delay="100">
-				<img data-src="img/gallery/vitor-pinto-2/thumb-1.jpg" alt="Photo by: Vitor Pito on Unsplash" class="img-fit lazy">
+			<a href="page-blog10.php" id="jake-joanna" class="blog__item">
+				<img data-src="img/gallery/vitor-pinto-2/thumb-1.webp" alt="Photo by: Vitor Pito on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -208,8 +208,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog11.php" id="william-stelle" class="blog__item" data-aos="fade" data-aos-delay="200">
-				<img data-src="img/gallery/kendra-allen-2/thumb-1.jpg" alt="Photo by: Kendra Allen on Unsplash" class="img-fit lazy">
+			<a href="page-blog11.php" id="william-stelle" class="blog__item">
+				<img data-src="img/gallery/kendra-allen-2/thumb-1.webp" alt="Photo by: Kendra Allen on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -225,8 +225,8 @@
 			</a>
 
 			<!-- blog item -->
-			<a href="page-blog12.php" id="baby-moreira" class="blog__item" data-aos="fade" data-aos-delay="300">
-				<img data-src="img/gallery/douglas-j-s-moreira/thumb-1.jpg" alt="Photo by: Douglas-j-s-Moreira on Unsplash" class="img-fit lazy">
+			<a href="page-blog12.php" id="baby-moreira" class="blog__item">
+				<img data-src="img/gallery/douglas-j-s-moreira/thumb-1.webp" alt="Photo by: Douglas-j-s-Moreira on Unsplash" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">

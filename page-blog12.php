@@ -31,10 +31,10 @@
 		<a href="page-blog.php" class="btn-outline btn-outline--light btn--large my-2"><i class="fa fa-long-arrow-left"></i> More Blogs</a>
 
 		<div class="fotorama mx-auto">
-			<a href="img/gallery/douglas-j-s-moreira/img-1.jpg" data-thumb="img/gallery/douglas-j-s-moreira/thumb-1.jpg"></a>
-			<a href="img/gallery/douglas-j-s-moreira/img-2.jpg" data-thumb="img/gallery/douglas-j-s-moreira/thumb-2.jpg"></a>
-			<a href="img/gallery/douglas-j-s-moreira/img-3.jpg" data-thumb="img/gallery/douglas-j-s-moreira/thumb-3.jpg"></a>
-			<a href="img/gallery/douglas-j-s-moreira/img-4.jpg" data-thumb="img/gallery/douglas-j-s-moreira/thumb-4.jpg"></a>
+			<a href="img/gallery/douglas-j-s-moreira/img-1.webp" data-thumb="img/gallery/douglas-j-s-moreira/thumb-1.webp"></a>
+			<a href="img/gallery/douglas-j-s-moreira/img-2.webp" data-thumb="img/gallery/douglas-j-s-moreira/thumb-2.webp"></a>
+			<a href="img/gallery/douglas-j-s-moreira/img-3.webp" data-thumb="img/gallery/douglas-j-s-moreira/thumb-3.webp"></a>
+			<a href="img/gallery/douglas-j-s-moreira/img-4.webp" data-thumb="img/gallery/douglas-j-s-moreira/thumb-4.webp"></a>
 		</div>
 
 		<div class="blog__info">

@@ -10,9 +10,6 @@
 
 <body>
 
-	<!-- include pre-loader	-->
-	<?php include('include-preloader.php');  ?>
-
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
 
@@ -27,7 +24,7 @@
 
 	<!-- gallery-hero -->
 	<div class="hero-banner">
-		<img src="img/banners/gallery-banner.webp" alt="Gallery Banner" class="img-fit">
+		<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/gallery-banner.webp/optimise?auth=MzM0ODY5MzE0OA__" alt="Contact Banner" class="img-fit lazy" width="1400px" height="800px">
 	</div>
 
 	<div class="container">

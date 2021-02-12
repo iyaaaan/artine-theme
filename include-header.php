@@ -60,9 +60,9 @@
 </noscript>
 
 <!-- compiled css styles -->
-<link rel="preload" href="css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<!--<link rel="preload" href="css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">-->
 
 <!-- main styles fallback -->
-<noscript>
+<!--<noscript>-->
 	<link rel="stylesheet" href="css/main.css">
-</noscript>
+<!--</noscript>-->

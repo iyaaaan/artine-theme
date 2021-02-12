@@ -12,7 +12,6 @@
 <body>
 
 	<!-- include pre-loader	-->
-	<?php include('include-preloader.php');  ?>
 
 	<!-- anchor tag for back to top button-->
 	<a name="top"></a>

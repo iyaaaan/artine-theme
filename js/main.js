@@ -1,14 +1,14 @@
 //pre-loader
 $(function () {
-	$('body, html').addClass('overflow-hidden');
-
-	window.onload = function () {
-		$('.pre-loader').fadeOut('slow', function () {
-			$(this).remove();
-		});
-		$('body, html').removeClass('overflow-hidden');
-		$('body, html').removeAttr('class');
-	};
+//	$('body, html').addClass('overflow-hidden');
+//
+//	window.onload = function () {
+//		$('.pre-loader').fadeOut('slow', function () {
+//			$(this).remove();
+//		});
+//		$('body, html').removeClass('overflow-hidden');
+//		$('body, html').removeAttr('class');
+//	};
 });
 
 

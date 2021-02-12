@@ -13,7 +13,7 @@
 <body>
 
 	<!-- include pre-loader	-->
-	<?php include('include-preloader.php');  ?>
+	
 
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
@@ -30,13 +30,23 @@
 	<div class="container">
 		<a href="page-blog.php" class="btn-outline btn-outline--light btn--large my-2"><i class="fa fa-long-arrow-left"></i> More Blogs</a>
 
-		<div class="fotorama mx-auto">
+        <!--<div class="fotorama mx-auto">
 			<a href="img/gallery/kendra-allen/img-1.webp" data-thumb="img/gallery/kendra-allen/thumb-1.webp"></a>
 			<a href="img/gallery/kendra-allen/img-2.webp" data-thumb="img/gallery/kendra-allen/thumb-2.webp"></a>
 			<a href="img/gallery/kendra-allen/img-3.webp" data-thumb="img/gallery/kendra-allen/thumb-3.webp"></a>
 			<a href="img/gallery/kendra-allen/img-4.webp" data-thumb="img/gallery/kendra-allen/thumb-4.webp"></a>
 			<a href="img/gallery/kendra-allen/img-5.webp" data-thumb="img/gallery/kendra-allen/thumb-5.webp"></a>
 			<a href="img/gallery/kendra-allen/img-6.webp" data-thumb="img/gallery/kendra-allen/thumb-6.webp"></a>
+		</div>-->
+
+		<div class="fotorama mx-auto">
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/img-1.webp/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/img-1.webp/optimise?auth=MzM0ODY5MzE0OA__"></a>
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/img-2.webp/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/thumb-2.webp/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/img-3.webp/optimise?auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/thumb-3.webp/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/img-4.webp/optimise?auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/thumb-4.webp/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/img-5.webp/optimise?auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/thumb-5.webp/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/img-6.webp/optimise?auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen/thumb-6.webp/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a> 
+            
 		</div>
 
 		<div class="blog__info">

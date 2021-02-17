@@ -10,9 +10,6 @@
 
 <body>
 
-	<!-- include pre-loader	-->
-	<?php include('include-preloader.php');  ?>
-
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
 
@@ -28,7 +25,7 @@
 	<!-- Package hero -->
 	<section>
 		<div class="hero-banner">
-			<img src="img/banners/package-banner.webp" alt="Photo of: andy-art" class="img-fit">
+			<img src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/package-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Photo of: andy-art" class="img-fit">
 		</div>
 	</section>
 

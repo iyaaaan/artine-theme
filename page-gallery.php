@@ -24,7 +24,7 @@
 
 	<!-- gallery-hero -->
 	<div class="hero-banner">
-		<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/gallery-banner.webp/optimise?auth=MzM0ODY5MzE0OA__" alt="Contact Banner" class="img-fit lazy" width="1400px" height="800px">
+		<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/gallery-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Contact Banner" class="img-fit lazy" width="1400px" height="800px">
 	</div>
 
 	<div class="container">
@@ -94,7 +94,7 @@
 				<div class="gallery__overlay"></div>
 			</div>
 			<!-- ./3 -->
-			
+
 			<div class="gallery__item pre-nup" data-category="pre-nup" data-src="img/gallery/kendra-allen-2/img-2.webp">
 				<img data-src="img/gallery/kendra-allen-2/thumb-2.webp" alt="Photo from Unsplash.com" width="400px" height="300px" class="lazy">
 				<div class="gallery__overlay"></div>
@@ -390,10 +390,10 @@
 				<div class="gallery__overlay"></div>
 			</div>
 			<!-- ./22 -->
-			
-			
 
-			
+
+
+
 
 		</div> <!-- ./gallery -->
 	</div> <!-- ./container -->
@@ -407,6 +407,21 @@
 		$(document).ready(function() {
 			$('.navbar__link:eq(3)').addClass('is-active');
 			$('.footer__nav-link:eq(4)').addClass('is-active');
+		});
+
+	</script>
+
+	<script>
+		$(function() {
+			$('body, html').addClass('overflow-hidden');
+
+			window.onload = function() {
+				$('.pre-loader').fadeOut('slow', function() {
+					$(this).remove();
+				});
+				$('body, html').removeClass('overflow-hidden');
+				$('body, html').removeAttr('class');
+			};
 		});
 
 	</script>

@@ -10,7 +10,7 @@
 
 <body>
 
-		<!-- include navigation bar	-->
+	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
 
 	<!-- anchor tag for back to top button-->
@@ -24,7 +24,7 @@
 
 	<!-- contact-hero -->
 	<div class="hero-banner">
-		<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/contact-banner.webp/optimise?auth=MzM0ODY5MzE0OA__" alt="Contact Banner" class="img-fit lazy" width="1400px" height="800px">
+		<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/contact-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Contact Banner" class="img-fit lazy" width="1400px" height="800px">
 	</div>
 
 	<div class="container-full" id="contact">

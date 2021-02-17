@@ -1896,7 +1896,7 @@ textarea:not(:placeholder-shown) {
 /* ############ PAGES ############ */
 /* ############### HERO SECTION ############### */
 .hero {
-  background-image: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/hero-banner.webp/optimise?auth=MzM0ODY5MzE0OA__");
+  background-image: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/hero-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__");
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: 75%;
@@ -2135,7 +2135,7 @@ textarea:not(:placeholder-shown) {
 
 /* ############ QUOTE SECTION ############ */
 .quote-sec {
-  background-image: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/quote-banner.webp/optimise?auth=MzM0ODY5MzE0OA__");
+  background-image: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/quote-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__");
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -2258,7 +2258,7 @@ textarea:not(:placeholder-shown) {
   }
 }
 .email-sec::after {
-  background: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/email-highlight.webp/optimise?auth=MzM0ODY5MzE0OA__");
+  background: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/email-highlight.jpg/optimise?auth=MzM0ODY5MzE0OA__");
   background-attachment: fixed;
   background-position: center;
   background-size: cover;
@@ -2563,23 +2563,23 @@ textarea:not(:placeholder-shown) {
 }
 
 .wedding-banner {
-  background-image: url(../img/banners/wedding-highlight.webp);
+  background-image: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/wedding-highlight.jpg/optimise?auth=MzM0ODY5MzE0OA__");
 }
 
 .birthday-banner {
-  background-image: url(../img/banners/birthday-highlight.webp);
+  background-image: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/birthday-highlight.jpg/optimise?auth=MzM0ODY5MzE0OA__");
 }
 
 .baby-banner {
-  background-image: url(../img/banners/baby-highlight.webp);
+  background-image: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/baby-highlight.jpg/optimise?auth=MzM0ODY5MzE0OA__");
 }
 
 .family-banner {
-  background-image: url(../img/banners/family-highlight.webp);
+  background-image: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/family-highlight.jpg/optimise?auth=MzM0ODY5MzE0OA__");
 }
 
 .food-banner {
-  background-image: url(../img/banners/food-highlight.webp);
+  background-image: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/food-highlight.jpg/optimise?auth=MzM0ODY5MzE0OA__");
 }
 
 .package {

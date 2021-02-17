@@ -24,7 +24,7 @@
 
 	<!-- hero image -->
 	<div class="hero-banner">
-		<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/blog-banner.webp/optimise?auth=MzM0ODY5MzE0OA__" alt="Contact Banner" class="img-fit lazy" width="1400px" height="800px">
+		<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/blog-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Contact Banner" class="img-fit lazy" width="1400px" height="800px">
 	</div>
 
 	<div class="container">
@@ -53,7 +53,7 @@
 
 			<!-- blog item -->
 			<a href="page-blog2.php" id="patricia" class="blog__item">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/patricia-prudente/thumb-1.webp/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
+				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/patricia-prudente/thumb-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -104,7 +104,7 @@
 
 			<!-- blog item -->
 			<a href="page-blog5.php" id="baby-yuri" class="blog__item">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/thumb-1.webp/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
+				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/thumb-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -121,7 +121,7 @@
 
 			<!-- blog item -->
 			<a href="page-blog6.php" id="vitor-jillian" class="blog__item">
-				<img data-src="img/gallery/vitor-pinto/thumb-1.webp" class="img-fit lazy" width="400px" height="300px">
+				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/vitor-pinto/thumb-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -138,7 +138,7 @@
 
 			<!-- blog item -->
 			<a href="page-blog7.php" id="baby-joven" class="blog__item">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/thumb-1.webp/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
+				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/thumb-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -155,7 +155,7 @@
 
 			<!-- blog item -->
 			<a href="page-blog8.php" id="kian-rose" class="blog__item">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/vitor-pinto-3/thumb-1.webp/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
+				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/vitor-pinto-3/thumb-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -172,7 +172,7 @@
 
 			<!-- blog item -->
 			<a href="page-blog9.php" id="hanna-debut" class="blog__item">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/hanna-busing/thumb-1.webp/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
+				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/hanna-busing/thumb-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -189,7 +189,7 @@
 
 			<!-- blog item -->
 			<a href="page-blog10.php" id="jake-joanna" class="blog__item">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/vitor-pinto-2/thumb-1.webp/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
+				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/vitor-pinto-2/thumb-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">
@@ -206,7 +206,7 @@
 
 			<!-- blog item -->
 			<a href="page-blog11.php" id="william-stelle" class="blog__item">
-				<img data-src="img/gallery/kendra-allen-2/thumb-1.webp" class="img-fit lazy" width="400px" height="300px">
+				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/kendra-allen-2/thumb-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
 
 
 				<div class="p-1">
@@ -224,7 +224,7 @@
 
 			<!-- blog item -->
 			<a href="page-blog12.php" id="baby-moreira" class="blog__item">
-				<img data-src="img/gallery/douglas-j-s-moreira/thumb-1.webp" class="img-fit lazy" width="400px" height="300px">
+				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/douglas-j-s-moreira/thumb-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="img-fit lazy" width="400px" height="300px">
 
 				<div class="p-1">
 					<div class="blog__title">

@@ -12,9 +12,6 @@
 
 <body>
 
-	<!-- include pre-loader	-->
-	<?php include('include-preloader.php');  ?>
-
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
 
@@ -30,6 +27,7 @@
 	<div class="container">
 		<a href="page-blog.php" class="btn-outline btn-outline--light btn--large my-2"><i class="fa fa-long-arrow-left"></i> More Blogs</a>
 
+		<!--
 		<div class="fotorama mx-auto">
 			<a href="img/gallery/yuri-tasso/img-1.webp" data-thumb="img/gallery/yuri-tasso/thumb-1.webp"></a>
 			<a href="img/gallery/yuri-tasso/img-2.webp" data-thumb="img/gallery/yuri-tasso/thumb-2.webp"></a>
@@ -37,6 +35,21 @@
 			<a href="img/gallery/yuri-tasso/img-4.webp" data-thumb="img/gallery/yuri-tasso/thumb-4.webp"></a>
 			<a href="img/gallery/yuri-tasso/img-5.webp" data-thumb="img/gallery/yuri-tasso/thumb-5.webp"></a>
 			<a href="img/gallery/yuri-tasso/img-6.webp" data-thumb="img/gallery/yuri-tasso/thumb-6.webp"></a>
+		</div>
+-->
+
+		<div class="fotorama mx-auto">
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/img-1.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/thumb-1.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/img-2.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/thumb-2.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/img-3.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/thumb-3.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/img-4.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/thumb-4.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/img-5.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/thumb-5.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/img-6.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/yuri-tasso/thumb-6.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
 		</div>
 
 		<div class="blog__info">

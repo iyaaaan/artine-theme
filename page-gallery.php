@@ -10,6 +10,9 @@
 
 <body>
 
+	<!-- include preloader -->
+	<?php include('include-preloader.php'); ?>
+
 	<!-- include navigation bar	-->
 	<?php include('include-navbar.php'); ?>
 

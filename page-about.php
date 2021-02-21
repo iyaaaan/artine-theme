@@ -28,11 +28,21 @@
 	</div>
 
 	<div class="container">
-		<!--	title -->
-		<h2 class="title">Our Story</h2>
-		<div class="our-story">
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste eaque porro odit, nihil officia quisquam recusandae ducimus enim voluptatum quos, aut minus adipisci tenetur consectetur nulla! Vero quos eum expedita culpa. Consequatur dignissimos nisi, eius cum mollitia, accusantium ipsum sit aliquid rem laborum illum nulla asperiores alias magni molestiae aliquam. Nam quo, assumenda, iste quos quidem, architecto dolores rem, neque illum nulla harum repudiandae nihil voluptates atque nostrum et porro similique aut dicta eligendi laboriosam eum? Inventore, harum eius impedit.</p>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit in consequuntur repellat iusto quod officia obcaecati excepturi delectus pariatur rerum quibusdam nostrum autem, soluta sint debitis fuga culpa saepe reiciendis, eligendi id perspiciatis, ducimus optio! Eius natus, quasi, officia dolorem tempora omnis ad autem doloribus delectus, ea accusantium obcaecati assumenda!</p>
+		<div class="about">
+			<div class="about__founder">
+				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/founder.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Artine Founder" class="img-fit lazy" width="500px" height="500px">
+
+				<div class="p-1">
+					<span class="about__founder-name">Us The Duo</span>
+					<p class="">CEO / Founder</p>
+				</div>
+			</div>
+			<div class="about__history">
+				<div class="about__title">How It Started.</div>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore, id, natus. Cumque debitis iure voluptatum delectus nostrum ducimus culpa odit beatae cupiditate officia ullam harum minus perspiciatis eum sed, quas.</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores neque molestias ipsa consequatur quas, suscipit!</p>
+				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda nesciunt perspiciatis minima neque sit, aspernatur, accusantium asperiores dolore ipsam corporis explicabo eos, deserunt eveniet. Perferendis!</p>
+			</div>
 		</div>
 	</div>
 
@@ -43,63 +53,159 @@
 		<div class="team">
 
 			<!-- team card -->
-			<div class="team-card">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-1" onclick="openTeamModal(this);">
+			<div class="team-card-wrap">
+				<div class="team-card">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-1" onclick="openTeamModal(this);">
 
-				<div class="py-1">
-					<span class="team-card__name">JUAN DELA CRUZ Jr.</span>
-					<span class="team-card__role">Photographer | Videographer</span>
+					<div class="py-1">
+						<span class="team-card__name">JUAN DELA CRUZ Jr.</span>
+						<span class="team-card__role">Photographer | Videographer</span>
+
+						<ul class="social-media">
+							<li class="social-media__item">
+								<a href="http://facebook.com/christian.ocol" target="_blank" class="btn--fb text-muted"><i class="fa fa-facebook-f" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+									<i class="fa fa-instagram"></i>
+								</a>
+							</li>
+						</ul>
+					</div>
 
 				</div>
 			</div>
 
 			<!-- team card -->
-			<div class="team-card">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-2" onclick="openTeamModal(this);">
+			<div class="team-card-wrap">
+				<div class="team-card">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-2" onclick="openTeamModal(this);">
 
-				<div class="py-1">
-					<span class="team-card__name">JUAN DELA CRUZ II</span>
-					<span class="team-card__role">Photographer | Videographer</span>
+					<div class="py-1">
+						<span class="team-card__name">JUAN DELA CRUZ II</span>
+						<span class="team-card__role">Photographer | Videographer</span>
+
+						<ul class="social-media">
+							<li class="social-media__item">
+								<a href="http://facebook.com/christian.ocol" target="_blank" class="btn--fb text-muted"><i class="fa fa-facebook-f" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+									<i class="fa fa-instagram"></i>
+								</a>
+							</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 
 			<!-- team card -->
-			<div class="team-card">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-3" onclick="openTeamModal(this);">
+			<div class="team-card-wrap">
+				<div class="team-card">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-3" onclick="openTeamModal(this);">
 
-				<div class="py-1">
-					<span class="team-card__name">JUAN DELA CRUZ III</span>
-					<span class="team-card__role">Photographer | Videographer</span>
+					<div class="py-1">
+						<span class="team-card__name">JUAN DELA CRUZ III</span>
+						<span class="team-card__role">Photographer | Videographer</span>
+
+						<ul class="social-media">
+							<li class="social-media__item">
+								<a href="http://facebook.com/christian.ocol" target="_blank" class="btn--fb text-muted"><i class="fa fa-facebook-f" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+									<i class="fa fa-instagram"></i>
+								</a>
+							</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 
 			<!-- team card -->
-			<div class="team-card">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-4" onclick="openTeamModal(this);">
+			<div class="team-card-wrap">
+				<div class="team-card">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-4" onclick="openTeamModal(this);">
 
-				<div class="py-1">
-					<span class="team-card__name">JUAN DELA CRUZ Sr.</span>
-					<span class="team-card__role">Photographer | Videographer</span>
-				</div>
-			</div> <!-- ./team -->
+					<div class="py-1">
+						<span class="team-card__name">JUAN DELA CRUZ Sr.</span>
+						<span class="team-card__role">Photographer | Videographer</span>
+
+						<ul class="social-media">
+							<li class="social-media__item">
+								<a href="http://facebook.com/christian.ocol" target="_blank" class="btn--fb text-muted"><i class="fa fa-facebook-f" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+									<i class="fa fa-instagram"></i>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div> <!-- ./team -->
+			</div>
 
 			<!-- team card -->
-			<div class="team-card">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-5" onclick="openTeamModal(this);">
+			<div class="team-card-wrap">
+				<div class="team-card">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-5" onclick="openTeamModal(this);">
 
-				<div class="py-1">
-					<span class="team-card__name">JUAN DELA CRUZ V</span>
-					<span class="team-card__role">Photographer | Videographer</span>
-				</div>
-			</div> <!-- ./team -->
+					<div class="py-1">
+						<span class="team-card__name">JUAN DELA CRUZ V</span>
+						<span class="team-card__role">Photographer | Videographer</span>
+
+						<ul class="social-media">
+							<li class="social-media__item">
+								<a href="http://facebook.com/christian.ocol" target="_blank" class="btn--fb text-muted"><i class="fa fa-facebook-f" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+									<i class="fa fa-instagram"></i>
+								</a>
+							</li>
+						</ul>
+					</div>
+				</div> <!-- ./team -->
+			</div>
 
 			<!-- team card -->
-			<div class="team-card">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-6" onclick="openTeamModal(this);">
+			<div class="team-card-wrap">
+				<div class="team-card">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-6" onclick="openTeamModal(this);">
 
-				<div class="py-1">
-					<span class="team-card__name">JUAN DELA CRUZ VI</span>
-					<span class="team-card__role">Photographer | Videographer</span>
+					<div class="py-1">
+						<span class="team-card__name">JUAN DELA CRUZ VI</span>
+						<span class="team-card__role">Photographer | Videographer</span>
+
+						<ul class="social-media">
+							<li class="social-media__item">
+								<a href="http://facebook.com/christian.ocol" target="_blank" class="btn--fb text-muted"><i class="fa fa-facebook-f" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+							</li>
+							<li class="social-media__item">
+								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+									<i class="fa fa-instagram"></i>
+								</a>
+							</li>
+						</ul>
+					</div>
 				</div>
 			</div>
 
@@ -112,7 +218,7 @@
 
 		<div class="flex-center mb-5">
 			<div class="featured__item">
-				<video controls controlsList="nodownload" playsinline poster="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/video-thumbnails/explainer-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="w-100" width="640px" height="360px">
+				<video controls controlsList="nodownload" playsinline poster="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/video-thumbnails/explainer-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="w-100">
 					<source src="videos/explainer.mp4" type="video/mp4">
 				</video>
 			</div>
@@ -124,53 +230,30 @@
 			</div>
 		</div>
 
-		<div class="benefits">
-			<div class="benefits__item">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/icons/pro-cam.png/optimise?auth=MzM0ODY5MzE0OA__" width="50px" height="50px" class="benefits__icon lazy" alt="Artine Professional Photographers">
-				<h5>Professional</h5>
-				<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo, officia!</p>
-			</div>
 
-			<div class="benefits__item">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/icons/cheap-price.png/optimise?auth=MzM0ODY5MzE0OA__" width="50px" height="50px" class="benefits__icon lazy" alt="Affordable Artine Packages">
-				<h5>Affordable</h5>
-				<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-			</div>
-
-			<div class="benefits__item">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/icons/image.png/optimise?auth=MzM0ODY5MzE0OA__" width="50px" height="50px" class="benefits__icon lazy" alt="High Quality Images">
-				<h5>High Quality Artine Images</h5>
-				<p class="benefits__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae, sunt maxime eaque ea?</p>
-			</div>
-		</div>
-
-		<div class="stats">
-			<div class="stats__item">
-				<div class="stats__inner">
-					<span>4</span>
+		<div class="stats-wrap">
+			<h2 class="stats__title">Artine Statistics</h2>
+			<p class="stats__text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores, ipsum.</p>
+			<div class="stats">
+				<div class="stats__item">
+					<span class="stats__number">4</span>
+					<span class="stats__desc">Years</span>
 				</div>
-				<span class="stats__text">Years</span>
-			</div>
 
-			<div class="stats__item">
-				<div class="stats__inner">
-					<span>1.5k</span>
+				<div class="stats__item">
+					<span class="stats__number">1.5k</span>
+					<span class="stats__desc">Clients</span>
 				</div>
-				<span class="stats__text">Clients</span>
-			</div>
 
-			<div class="stats__item">
-				<div class="stats__inner">
-					<span>800</span>
+				<div class="stats__item">
+					<span class="stats__number">800</span>
+					<span class="stats__desc">Events</span>
 				</div>
-				<span class="stats__text">Events</span>
-			</div>
 
-			<div class="stats__item">
-				<div class="stats__inner">
-					<span>200K+</span>
+				<div class="stats__item">
+					<span class="stats__number">200K+</span>
+					<span class="stats__desc">Shots Taken</span>
 				</div>
-				<span class="stats__text">Shots Taken</span>
 			</div>
 		</div>
 	</div>

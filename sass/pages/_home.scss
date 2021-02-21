@@ -253,16 +253,17 @@
 
 /* ############ QUOTE SECTION ############ */
 .quote-sec {
-	background-image: url('https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/quote-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__');
+	background: url('https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/quote-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__') rgba(0, 0, 0, .5);
 	background-attachment: fixed;
+	background-blend-mode: multiply;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
-	height: 30vh;
+	height: 300px;
 	position: relative;
 
 	@include respond-to(medium) {
-		height: 40vh;
+		height: 400px;
 	}
 
 	&__text {
@@ -271,7 +272,7 @@
 		font-weight: normal;
 		font-size: var(--font-large);
 		text-align: center;
-		text-shadow: -3px 3px var(--black);
+		text-shadow: -2px 2px var(--black);
 		margin: 0 1.5rem;
 		z-index: 10;
 	}

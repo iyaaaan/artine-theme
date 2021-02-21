@@ -61,13 +61,13 @@
 			<div>
 				<ul class="social-media">
 					<li class="social-media__item">
-						<a href="http://facebook.com/christian.ocol" target="_blank" class="btn--fb"><i class="fa fa-facebook-f" aria-hidden="true"></i></a>
+						<a href="http://facebook.com/christian.ocol" target="_blank" class="btn--fb text-white"><i class="fa fa-facebook-f" aria-hidden="true"></i></a>
 					</li>
 					<li class="social-media__item">
-						<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+						<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-white"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 					</li>
 					<li class="social-media__item">
-						<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta">
+						<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-white">
 							<i class="fa fa-instagram"></i>
 						</a>
 					</li>

@@ -168,7 +168,6 @@
 
 	<!-- Quote section -->
 	<div class="quote-sec flex-center">
-		<div class="overlay"></div>
 		<h2 class="quote-sec__text">"Capture Moments that Matter"</h2>
 	</div>
 
@@ -179,7 +178,7 @@
 
 		<div class="flex-center">
 			<div class="featured__item">
-				<video controls controlsList="nodownload" playsinline poster="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/video-thumbnails/featured-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" width="640px" height="360px" class="w-100">
+				<video controls controlsList="nodownload" playsinline poster="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/video-thumbnails/featured-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="w-100">
 					<source src="videos/us.mp4" type="video/mp4">
 				</video>
 			</div>

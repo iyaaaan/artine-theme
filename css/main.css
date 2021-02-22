@@ -2282,12 +2282,6 @@ textarea:not(:placeholder-shown) {
   }
 }
 
-.our-story {
-  line-height: 1.5;
-  letter-spacing: 0.2rem;
-  text-align: justify;
-}
-
 .about {
   display: flex;
   flex-wrap: wrap;
@@ -2329,6 +2323,7 @@ textarea:not(:placeholder-shown) {
   font-family: var(--font-title);
   font-size: var(--font-medium);
 }
+
 .team {
   display: flex;
   justify-content: flex-start;
@@ -2336,6 +2331,11 @@ textarea:not(:placeholder-shown) {
   flex-wrap: wrap;
 }
 
+.team-card {
+  text-align: center;
+  position: relative;
+  transition: 0.3s ease;
+}
 .team-card-wrap {
   flex: 0 0 70%;
   margin: 0 auto 3rem;
@@ -2351,22 +2351,15 @@ textarea:not(:placeholder-shown) {
     flex: 0 0 33.333333%;
   }
 }
-
-.team-img {
+.team-card__img {
   cursor: pointer;
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
   transition: 0.3s;
 }
-.team-img:hover {
+.team-card__img:hover {
   -webkit-filter: none;
   filter: none;
-}
-
-.team-card {
-  text-align: center;
-  position: relative;
-  transition: 0.3s ease;
 }
 .team-card__name {
   color: var(--color-primary);
@@ -2429,47 +2422,6 @@ textarea:not(:placeholder-shown) {
   font-size: var(--font-medium);
   text-align: center;
   margin-top: 1.5rem;
-}
-
-.stats__inner {
-  position: relative;
-  height: 150px;
-  width: 150px;
-  margin: 0 auto;
-  border: double 5px transparent;
-  border-radius: 80px;
-  background-image: linear-gradient(white, white), radial-gradient(circle at top left, #ff0cde, #febd03);
-  background-origin: border-box;
-  background-clip: content-box, border-box;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: var(--font-header);
-  font-size: var(--font-large);
-  color: var(--color-secondary);
-}
-.stats__inner:hover::before, .stats__inner:hover::after {
-  opacity: 1;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  top: -5px;
-  left: -5px;
-  right: 0;
-  bottom: 0;
-  content: "";
-  height: 100%;
-  width: 100%;
-  border: 5px solid #ff0cde;
-  border-radius: 100%;
-  animation: ripple 1.5s 1 cubic-bezier(0.65, 0, 0.34, 1);
-  z-index: -1;
-}
-.stats__inner:hover::after {
-  border: 5px solid #febd03;
-  animation-delay: 0.4s;
 }
 
 .book-now {

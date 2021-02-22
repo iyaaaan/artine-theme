@@ -55,7 +55,7 @@
 			<!-- team card -->
 			<div class="team-card-wrap">
 				<div class="team-card">
-					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-1" onclick="openTeamModal(this);">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-card__img lazy" data-target="member-1" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ Jr.</span>
@@ -82,7 +82,7 @@
 			<!-- team card -->
 			<div class="team-card-wrap">
 				<div class="team-card">
-					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-2.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-2" onclick="openTeamModal(this);">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-2.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-card__img lazy" data-target="member-2" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ II</span>
@@ -108,7 +108,7 @@
 			<!-- team card -->
 			<div class="team-card-wrap">
 				<div class="team-card">
-					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-3.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-3" onclick="openTeamModal(this);">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-3.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-card__img lazy" data-target="member-3" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ III</span>
@@ -134,7 +134,7 @@
 			<!-- team card -->
 			<div class="team-card-wrap">
 				<div class="team-card">
-					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-4" onclick="openTeamModal(this);">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-card__img lazy" data-target="member-4" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ Sr.</span>
@@ -160,7 +160,7 @@
 			<!-- team card -->
 			<div class="team-card-wrap">
 				<div class="team-card">
-					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-2.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-5" onclick="openTeamModal(this);">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-2.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-card__img lazy" data-target="member-5" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ V</span>
@@ -186,7 +186,7 @@
 			<!-- team card -->
 			<div class="team-card-wrap">
 				<div class="team-card">
-					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-3.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-img lazy" data-target="member-6" onclick="openTeamModal(this);">
+					<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-3.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Juan Dela Cruz Jr." width="480px" height="600px" class="img-fit team-card__img lazy" data-target="member-6" onclick="openTeamModal(this);">
 
 					<div class="py-1">
 						<span class="team-card__name">JUAN DELA CRUZ VI</span>
@@ -214,22 +214,6 @@
 
 	<div class="container-full">
 		<!--	title -->
-		<h2 class="title">Why ArtiNe?</h2>
-
-		<div class="flex-center mb-5">
-			<div class="featured__item">
-				<video controls controlsList="nodownload" playsinline poster="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/video-thumbnails/explainer-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" class="w-100">
-					<source src="videos/explainer.mp4" type="video/mp4">
-				</video>
-			</div>
-
-			<div class="featured__item">
-				<h2 class="featured__title">We made this is for you.</h2>
-				<span class="featured__sub-header"><em>If you made it this far, better check our blogs and take a look of our works!</em></span>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus iure ducimus facere, consectetur natus necessitatibus, aliquam ab dolore atque mollitia inventore molestiae rerum ut nesciunt, aliquid porro repellat beatae repellendus.</p>
-			</div>
-		</div>
-
 
 		<div class="stats-wrap">
 			<h2 class="stats__title">Artine Statistics</h2>

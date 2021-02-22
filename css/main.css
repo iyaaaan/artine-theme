@@ -2354,9 +2354,13 @@ textarea:not(:placeholder-shown) {
 
 .team-img {
   cursor: pointer;
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+  transition: 0.3s;
 }
 .team-img:hover {
-  content: url("https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1-hover.jpg/optimise?auth=MzM0ODY5MzE0OA__");
+  -webkit-filter: none;
+  filter: none;
 }
 
 .team-card {

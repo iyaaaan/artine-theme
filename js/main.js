@@ -105,7 +105,7 @@ $(function () {
 		var clickover = $(event.target);
 		var teamModal = $(".team-modal").hasClass("is-shown");
 
-		if (teamModal === true && !clickover.hasClass("team-modal") && !clickover.hasClass("team-modal__slide")) {
+		if (teamModal === true && clickover.hasClass("team-modal")) {
 			$(".team-modal").removeClass("is-shown");
 			$(".team-modal__slide").removeClass("is-shown");
 			$("body").removeClass("overflow-hidden");

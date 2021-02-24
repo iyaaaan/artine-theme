@@ -99,7 +99,7 @@
 			<!-- ./3 -->
 
 			<div class="gallery__item pre-nup" data-category="pre-nup" data-src="img/gallery/kendra-allen-2/img-2.webp">
-				<img data-src="img/gallery/kendra-allen-2/thumb-2.webp" alt="Photo from Unsplash.com" width="400px" height="300px" class="lazy">
+				<img data-src="img/gallery/kendra-allen-2/thumb-2.webp" alt="Photo from Unsplash.com" width="300px" height="400px" class="lazy">
 				<div class="gallery__overlay"></div>
 			</div>
 

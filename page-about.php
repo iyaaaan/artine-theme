@@ -69,7 +69,7 @@
 								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 							</li>
 							<li class="social-media__item">
-								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+								<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 									<i class="fa fa-instagram"></i>
 								</a>
 							</li>
@@ -96,7 +96,7 @@
 								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 							</li>
 							<li class="social-media__item">
-								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+								<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 									<i class="fa fa-instagram"></i>
 								</a>
 							</li>
@@ -122,7 +122,7 @@
 								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 							</li>
 							<li class="social-media__item">
-								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+								<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 									<i class="fa fa-instagram"></i>
 								</a>
 							</li>
@@ -148,7 +148,7 @@
 								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 							</li>
 							<li class="social-media__item">
-								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+								<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 									<i class="fa fa-instagram"></i>
 								</a>
 							</li>
@@ -174,7 +174,7 @@
 								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 							</li>
 							<li class="social-media__item">
-								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+								<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 									<i class="fa fa-instagram"></i>
 								</a>
 							</li>
@@ -200,7 +200,7 @@
 								<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 							</li>
 							<li class="social-media__item">
-								<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+								<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 									<i class="fa fa-instagram"></i>
 								</a>
 							</li>
@@ -282,8 +282,6 @@
 
 				$(".team-modal__content").scrollTop(0);
 			});
-
-			scrollTop();
 		}
 
 		function closeTeamModal() {

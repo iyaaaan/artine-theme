@@ -8,7 +8,7 @@
 
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img src="img/team/team-1-thumb.jpg" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
+					<img src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -24,7 +24,7 @@
 							<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 						</li>
 						<li class="social-media__item">
-							<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+							<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 								<i class="fa fa-instagram"></i>
 							</a>
 						</li>
@@ -74,7 +74,7 @@
 			<div class="team-modal__close" onclick="closeTeamModal()"><i class="fa fa-times" aria-hidden="true"></i></div>
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img src="img/team/team-2-thumb.jpg" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
+					<img src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-2-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -90,7 +90,7 @@
 							<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 						</li>
 						<li class="social-media__item">
-							<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+							<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 								<i class="fa fa-instagram"></i>
 							</a>
 						</li>
@@ -140,7 +140,7 @@
 
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img src="img/team/team-3-thumb.jpg" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
+					<img src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-3-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -156,7 +156,7 @@
 							<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 						</li>
 						<li class="social-media__item">
-							<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+							<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 								<i class="fa fa-instagram"></i>
 							</a>
 						</li>
@@ -207,7 +207,7 @@
 
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img src="img/team/team-1-thumb.jpg" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
+					<img src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-1-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -223,7 +223,7 @@
 							<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 						</li>
 						<li class="social-media__item">
-							<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+							<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 								<i class="fa fa-instagram"></i>
 							</a>
 						</li>
@@ -274,7 +274,7 @@
 
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img src="img/team/team-2-thumb.jpg" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
+					<img src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-2-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -290,7 +290,7 @@
 							<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 						</li>
 						<li class="social-media__item">
-							<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+							<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 								<i class="fa fa-instagram"></i>
 							</a>
 						</li>
@@ -341,7 +341,7 @@
 
 			<div class="team-modal__item">
 				<div class="team-modal__img">
-					<img src="img/team/team-3-thumb.jpg" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
+					<img src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/team-3-thumb.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Artine Team" class="img-fit rounded" width="200px" height="200px">
 				</div>
 			</div>
 			<div class="team-modal__item">
@@ -357,7 +357,7 @@
 							<a href="http://twitter.com/Iyan87540607" target="_blank" class="btn--twit text-muted"><i class="fa fa-twitter" aria-hidden="true"></i></a>
 						</li>
 						<li class="social-media__item">
-							<a href="http://instagra.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
+							<a href="http://instagram.com/iyaaaan__" target="_blank" class="btn--insta text-muted">
 								<i class="fa fa-instagram"></i>
 							</a>
 						</li>

@@ -283,7 +283,7 @@ $(function () {
 		// your configuration goes here
 		scrollDirection: 'vertical',
 		effect: 'fadeIn',
-		effectTime: 750,
+		effectTime: 500,
 		threshold: 0,
 		visibleOnly: true,
 		onError: function (element) {

@@ -25,7 +25,7 @@
 	<!-- Package hero -->
 	<section>
 		<div class="hero-banner">
-			<img src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/package-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Photo of: andy-art" class="img-fit">
+			<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/package-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Photo of: andy-art" class="img-fit lazy" width="1400px" height="800px">
 		</div>
 	</section>
 

@@ -38,15 +38,17 @@
 -->
 
 		<div class="fotorama mx-auto">
-			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-/img-1.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-/thumb-1.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/img-1.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/thumb-1.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
 
-			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-/img-2.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-/thumb-2.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/img-2.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/thumb-2.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
 
-			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-/img-3.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-/thumb-3.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/img-3.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/thumb-3.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
 
-			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-/img-4.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-/thumb-4.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/img-4.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/thumb-4.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
 
-			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-/img-5.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-/thumb-5.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+			<a href="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/img-5.jpg/resize?size=930&auth=MzM0ODY5MzE0OA__" data-thumb="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/gallery/minnie-zhou-2/thumb-5.jpg/fit?size=64x64&auth=MzM0ODY5MzE0OA__"></a>
+			
+			
 		</div>
 
 		<div class="blog__info">

@@ -24,13 +24,13 @@
 
 	<!-- about-hero -->
 	<div class="hero-banner">
-		<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/banners/about-banner.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Artine Photography Family" class="img-fit lazy" width="1400px" height="800px">
+		<img src="img/banners/about-banner.webp" alt="Artine Photography Family" class="img-fit" width="1400px" height="800px">
 	</div>
 
 	<div class="container">
 		<div class="about">
 			<div class="about__founder">
-				<img data-src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/founder.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Artine Founder" class="img-fit lazy" width="500px" height="500px">
+				<img src="https://pixboost.com/api/2/img/http://artine-photography.epizy.com/img/team/founder.jpg/optimise?auth=MzM0ODY5MzE0OA__" alt="Artine Founder" class="img-fit" width="500px" height="500px">
 
 				<div class="p-1">
 					<span class="about__founder-name">Us The Duo</span>
